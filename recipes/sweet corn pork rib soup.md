@@ -12,10 +12,10 @@ This dish is a traditional Chinese cuisine. The whole process of cooking this di
 This soup is delicious and beneficial for your health.
 ## Ingredients
 
-> Corn
-> Pork rib
-> Salt
-> Ginger
+*Corn
+*Pork rib
+*Salt
+*Ginger
 
 ### Header 3
 
