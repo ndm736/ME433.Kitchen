@@ -2,119 +2,32 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!---
+This is a comment. Note the triple dash to start, but double to end
+-->
 
-[Link to another page](./another-page.html).
+## Pijuan's Sweet Corn Pork rib Soup
+<!---
+Put your name or github username somewhere
+-->
+This dish is a traditional Chinese cuisine. It requires very few ingredients. The whole process of cooking this dish is very simple. You do not need any cooking techniques.
+This soup tates fragrant and sweet. It is beneficial for your health.
 
-# Pijuan's Sweet Corn Pork Rib Soup
+### Ingredients
+- Two Sweet Corn
+- One pound pork rib
+- Ginger
+- Salt
+- Water
 
-This dish is a traditional Chinese cuisine. The whole process of cooking this dish is really simple. 
-This soup is delicious and beneficial for your health.
-## Ingredients
+### Instructions
+1. cut two corn into six pieces
+2. cut the pork rib into pieces
+3. add corns and pork ribs into the pressure cooker
+4. add ginger and water into the pressure cooker
+5. press the meat button
+6. wait for about 40 minutinus
+7. add salt into the soup 
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+The important thing is that you cannot add salt before the pressure cooker works. Wait for around 40 minutes, then you can get a delicious soup.
+Enjoy!
