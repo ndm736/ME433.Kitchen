@@ -216,3 +216,4 @@ Add your recipe to the bulleted list:
 - [Chicken Thighs](./recipes/chickenthighs.md)
 - [Cinnamon Roll Cake](./recipes/cinnamon_roll_cake.md)
 - [Crock Pot Pulled Chicken](./recipes/crockpotpulledchicken.html)
+- [Raspberry Cheesecake](./recipes/raspberrycheesecake.md)
