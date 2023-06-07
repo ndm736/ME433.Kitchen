@@ -254,3 +254,4 @@ Add your recipe to the bulleted list:
 - [Water Chicken](./recipes/WaterChicken.md)
 - [Chocolate Cheesecake](./recipes/Chocolate_Cheesecake.md)
 - [Skillet Cookie](./recipes/skillet_cookie.md)
+- [Gnocchi Recipe](./recipes/gnocchi.md)
