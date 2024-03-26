@@ -7,8 +7,8 @@ layout: default
 
 ### Ingredients: 
 
-- 1 pound chicken
-- 5 cups of water
+- 1 pound Chicken
+- 5 cups of Water
 - Raw Spices: Cinnamons, Cardamoms, Black Pepper, Bay leaf
 - 6 Tbsp of Mustard Oil
 - 5 Tbsp of Ginger Garlic Paste
@@ -36,7 +36,7 @@ layout: default
 8. Add the remianing two cups of water and close the pressure cooker's lid. 
 9. Allow 3-4 whistles depending on the chicken.
 10. Allow the vapour to come out naturally, then open the lid and add the vinegar / rose extract.
-11. Done! Enjoy!
+11. Serve and enjoy with your family and friends !!
 
 <!--
 Keep this link to return to the index
