@@ -12,7 +12,7 @@ Put your name or github username somewhere
 usernam: moses135069
 -->
 
-My favorite breakfast meal is the Venezuelan dish arepas which uses maize dough, cheese, and butter.
+Simple Jumbalaya dish. Great for large dinners. Serves many!
 
 ### Ingredients
 - 3 tablespoons olive oil
