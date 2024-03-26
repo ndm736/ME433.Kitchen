@@ -50,7 +50,7 @@ Add your recipe to the bulleted list:
 - [dhabeli](./recipes/dhabeli.html)
 - [Hummus](./recipes/hummus.html)
 - [Tomato & Eggs Stir Fry](./recipes/tomatoeggstirfry.html)
-- [FriedRice](./recipes/FriedRice.html)
+- [FriedRice](./recipes/friedRice.html)
 - [Kung Pao Chicken](./recipes/kungpaochicken.html)
 - [Oyakodon](./recipes/oyakodon.html)
 - [Milk Bread](./recipes/milkbread.html)
@@ -258,3 +258,4 @@ Add your recipe to the bulleted list:
 - [Mom's_EasyChicken Recipe](./recipes/Mom's_EasyChicken.md)
 - [Poached Eggs with Toast](./recipes/poachedEggs.md)
 - [Tteokbokki (Spicy Rice Cakes)](./recipes/Tteokbokki.md)
+- [Simple Jumbalaya](./recipes/jumbalaya.md)
