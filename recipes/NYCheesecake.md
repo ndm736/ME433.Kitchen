@@ -6,14 +6,14 @@ layout: default
 What a delicious way to end a meal! There's nothing better than a great piece of New York Cheesecake! My favorite dessert, hope you enjoy it as well.
 ### Ingredients
 - 2 cups finely crushed graham cracker crumbs
-- $\frac{1}{2}$ cup butter or 1/2 cup margarine, melted
+- 1/2 cup butter or 1/2 cup margarine, melted
 - 5 (8 ounce) packages cream cheese, softened
-- $1\frac{3}{4}$ cups sugar
+- 1.75 cups sugar
 - 2 tablespoons all-purpose flour
-- 1 $\frac{1}{2}$ teaspoons vanilla
+- 1.5 teaspoons vanilla
 - 5 eggs
 - 2 egg yolks
-- $\frac{1}{3}$ cup whipping cream
+- 1/3 cup whipping cream
 - 1 teaspoon finely shredded lemon, rind off
 
 ### Instructions
