@@ -257,4 +257,4 @@ Add your recipe to the bulleted list:
 - [Gnocchi Recipe](./recipes/gnocchi.md)
 - [Mom's_EasyChicken Recipe](./recipes/Mom's_EasyChicken.md)
 - [Poached Eggs with Toast](./recipes/poachedEggs.md)
-- [Tteokboki (Spicy Rice Cakes)](./recipes/Tteokboki.html)
+- [Tteokboki (Spicy Rice Cakes)](./recipes/Tteokbokki.md)
