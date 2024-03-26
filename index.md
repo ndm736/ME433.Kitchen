@@ -255,7 +255,7 @@ Add your recipe to the bulleted list:
 - [Chocolate Cheesecake](./recipes/Chocolate_Cheesecake.md)
 - [Skillet Cookie](./recipes/skillet_cookie.md)
 - [Gnocchi Recipe](./recipes/gnocchi.md)
-- [NY Cheesecake](<./recipes/NY Cheesecake.md>)
+- [NY Cheesecake](./recipes/NYCheesecake.md)
 - [Mom's_EasyChicken Recipe](./recipes/Mom's_EasyChicken.md)
 - [Poached Eggs with Toast](./recipes/poachedEggs.md)
 - [Tteokbokki (Spicy Rice Cakes)](./recipes/Tteokbokki.md)
