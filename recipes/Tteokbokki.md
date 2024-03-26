@@ -32,3 +32,5 @@ An easy-to-make Korean dish.
 5. Bring it down to low heat and let everything simmer to help thicken the sauce
 
 6. Remove from the stove and place into a dish. Top off the dish with sesame seeds and chopped green onions.
+
+[back to index](../)
