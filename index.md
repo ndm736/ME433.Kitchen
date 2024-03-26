@@ -259,3 +259,4 @@ Add your recipe to the bulleted list:
 - [Poached Eggs with Toast](./recipes/poachedEggs.md)
 - [Tteokbokki (Spicy Rice Cakes)](./recipes/Tteokbokki.md)
 - [Simple Jumbalaya](./recipes/jumbalaya.md)
+- [Garlic Butter Chicken].(/recipes/GarlicButterChicken.md)
