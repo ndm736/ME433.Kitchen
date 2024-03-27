@@ -269,5 +269,4 @@ Add your recipe to the bulleted list:
 - [Crispy Skin Pork Belly](./recipes/CrispySkinPorkBelly.md)
 - [Korean Army Stew](./recipes/armystew.html)
 - [Speciality Pizzas](./recipes/specialitypizzas.md)
-- [Gluten Free Pierogies](./recipes/Pierogies.html)
-- [Gluten Free Pierogies](./recipes/Pierogis.md)
+- [Gluten Free Pierogi](./recipes/Pierogis.md)
