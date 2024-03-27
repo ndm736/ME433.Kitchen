@@ -1,15 +1,15 @@
-## Swedish pancakes recipe
+# Swedish pancakes recipe
  This is a swedish pancake recipe that is epic. They are kinda like crepes but not. Super easy, quick, and delicious.
  
-### Ingredients:
+## Ingredients:
  
-*    2 Eggs
-*    2dL Flour (104.2g)
-*    Butter (for non-stick)
-*    4dL Milk (1.691 cups)
-*    Jam (optional)
+-    2 Eggs
+-    2dL Flour (104.2g)
+-    Butter (for non-stick)
+-    4dL Milk (1.691 cups)
+-    Jam (optional)
 
-### Instructions:
+## Instructions:
 
 1.    Get a large bowl
 2.    Pour flour into bowl
