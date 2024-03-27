@@ -10,7 +10,7 @@ This is a comment. Note the triple dash to start, but double to end
 <!---
 github: SRyu1425
 -->
-This is one of my favorite Korean dishes. Google says "Its contents are the product of wasteful American soldiers, acquired by resourceful South Koreans" which is why its called army stew. In korean it is called "buddae-jjigae". This recipe serves 4.
+This is one of my favorite Korean dishes. Google states that its name comes from the dish's contents being the product of leftover food from American soldiers. In korean it is called "buddae-jjigae". This recipe serves 4.
 
 ### Ingredients (Main)
 - 4 cups (1 litre) chicken stock 
