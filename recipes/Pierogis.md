@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # Gluten-Free Pierogis 
 > Recipe credit goes to Gluten Free on a Shoestring
