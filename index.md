@@ -263,4 +263,4 @@ Add your recipe to the bulleted list:
 - [Garlic Butter Chicken](./recipes/GarlicButterChicken.md)
 - [Fancy Scrambled Eggs](./recipes/Fancy_Scrambled_Eggs.md)
 - [Chocolate Covered Strawberries](./recipes/chocstrawberries.html)
-- [Lemon Butter Garlic Capers Olive Oil Shrimp](.recipes/LemonButterGarlicCaperShrimp.md)
+- [Lemon Butter Garlic Capers Olive Oil Shrimp](./recipes/LemonButterGarlicCaperShrimp.md)
