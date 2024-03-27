@@ -1,5 +1,5 @@
 
-# Gluten-Free Pierogis 
+# Gluten-Free Pierogi 
 > Recipe credit goes to Gluten Free on a Shoestring
 
 ## Ingredients 
