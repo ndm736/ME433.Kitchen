@@ -272,3 +272,4 @@ Add your recipe to the bulleted list:
 - [Gluten Free Pierogi](./recipes/Pierogis.md)
 - [Peking Duck](./recipes/Peking_Duck.md)
 - [Fried Eggs](./recipes/Zac_Fried_Egg.md)
+- [Lauren's Chocolate Chip Cookies](./recipes/ChocoChipCookies.md)
