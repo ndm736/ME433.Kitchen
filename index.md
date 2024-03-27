@@ -271,3 +271,4 @@ Add your recipe to the bulleted list:
 - [Speciality Pizzas](./recipes/specialitypizzas.md)
 - [Gluten Free Pierogi](./recipes/Pierogis.md)
 - [Peking Duck](./recipes/Peking_Duck.md)
+- [Fried Eggs](./recipes/Zac_Fried_Egg.md)
