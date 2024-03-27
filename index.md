@@ -264,3 +264,4 @@ Add your recipe to the bulleted list:
 - [Fancy Scrambled Eggs](./recipes/Fancy_Scrambled_Eggs.md)
 - [Chocolate Covered Strawberries](./recipes/chocstrawberries.html)
 - [Lemon Butter Garlic Capers Olive Oil Shrimp](./recipes/LemonButterGarlicCaperShrimp.md)
+- [Ricotta Cookies](./recipes/ricottacookies.md)
