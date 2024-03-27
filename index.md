@@ -270,4 +270,4 @@ Add your recipe to the bulleted list:
 - [Korean Army Stew](./recipes/armystew.html)
 - [Speciality Pizzas](./recipes/specialitypizzas.md)
 - [Gluten Free Pierogies](./recipes/Pierogies.html)
-dc9e59364f8f16f8e4083abd5849a2545c99e84a
+- [Gluten Free Pierogies](./recipes/Pierogis.md)
