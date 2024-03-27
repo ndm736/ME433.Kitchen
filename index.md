@@ -265,3 +265,4 @@ Add your recipe to the bulleted list:
 - [Chocolate Covered Strawberries](./recipes/chocstrawberries.html)
 - [Lemon Butter Garlic Capers Olive Oil Shrimp](./recipes/LemonButterGarlicCaperShrimp.md)
 - [Ricotta Cookies](./recipes/ricottacookies.md)
+- [Pesto Alfredo Pasta](./recipes/Pesto_Alfredo_Pasta.md)
