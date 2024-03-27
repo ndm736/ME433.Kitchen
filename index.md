@@ -266,4 +266,4 @@ Add your recipe to the bulleted list:
 - [Lemon Butter Garlic Capers Olive Oil Shrimp](./recipes/LemonButterGarlicCaperShrimp.md)
 - [Ricotta Cookies](./recipes/ricottacookies.md)
 - [Pesto Alfredo Pasta](./recipes/Pesto_Alfredo_Pasta.md)
-- [Crispy Skin Pork Belly](./recipes/CrispySkinPorkBelly.html)
+- [Crispy Skin Pork Belly](./recipes/CrispySkinPorkBelly.md)
