@@ -267,3 +267,4 @@ Add your recipe to the bulleted list:
 - [Ricotta Cookies](./recipes/ricottacookies.md)
 - [Pesto Alfredo Pasta](./recipes/Pesto_Alfredo_Pasta.md)
 - [Crispy Skin Pork Belly](./recipes/CrispySkinPorkBelly.md)
+- [Speciality Pizzas](./recipes/specialitypizzas.md)
