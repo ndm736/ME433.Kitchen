@@ -268,3 +268,6 @@ Add your recipe to the bulleted list:
 - [Pesto Alfredo Pasta](./recipes/Pesto_Alfredo_Pasta.md)
 - [Crispy Skin Pork Belly](./recipes/CrispySkinPorkBelly.md)
 - [Korean Army Stew](./recipes/armystew.html)
+- [Speciality Pizzas](./recipes/specialitypizzas.md)
+- [Gluten Free Pierogies](./recipes/Pierogies.html)
+dc9e59364f8f16f8e4083abd5849a2545c99e84a
