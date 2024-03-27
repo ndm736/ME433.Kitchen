@@ -262,3 +262,4 @@ Add your recipe to the bulleted list:
 - [Simple Jumbalaya](./recipes/jumbalaya.md)
 - [Garlic Butter Chicken](./recipes/GarlicButterChicken.md)
 - [Fancy Scrambled Eggs](./recipes/Fancy_Scrambled_Eggs.md)
+- [Chocolate Covered Strawberries](./recipes/chocstrawberries.html)
