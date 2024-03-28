@@ -263,6 +263,7 @@ Add your recipe to the bulleted list:
 - [Garlic Butter Chicken](./recipes/GarlicButterChicken.md)
 - [Fancy Scrambled Eggs](./recipes/Fancy_Scrambled_Eggs.md)
 - [Chocolate Covered Strawberries](./recipes/chocstrawberries.html)
+- [Black Pepper Beef Cube](./recipes/blackpepperbeefcube.html)
 - [Lemon Butter Garlic Capers Olive Oil Shrimp](./recipes/LemonButterGarlicCaperShrimp.md)
 - [Ricotta Cookies](./recipes/ricottacookies.md)
 - [Pesto Alfredo Pasta](./recipes/Pesto_Alfredo_Pasta.md)
@@ -276,3 +277,4 @@ Add your recipe to the bulleted list:
 - [Swedish Pancakes](./recipes/Swedish_Pancakes.md)
 - [Mumbai's Pav Bhaji](./recipes/Mumbai's_Pav_Bhaji.md)
 - [Apple Crisp](./recipes/AppleCrisp.html)
+
