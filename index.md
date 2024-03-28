@@ -282,4 +282,4 @@ Add your recipe to the bulleted list:
 - [Soup Dumplings](./recipes/soupdumplings.html)
 - [Scallion Oil Flavored Swimming Crab](./recipes/scallion_oil_flavored_swimming_crab.html)
 - [Easy Mac and Cheese](./recipes/EasyMacAndCheese.html)
-
+- [Yichen's Medium Ribeye Steak](./recipes/Yichen's_Medium_Ribeye_Steak.html)
