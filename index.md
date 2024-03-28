@@ -276,3 +276,4 @@ Add your recipe to the bulleted list:
 - [Swedish Pancakes](./recipes/Swedish_Pancakes.md)
 - [Mumbai's Pav Bhaji](./recipes/Mumbai's_Pav_Bhaji.md)
 - [Apple Crisp](./recipes/AppleCrisp.html)
+- [Scallion Oil Flavored Swimming Crab](./recipes/scallion_oil_flavored_swimming_crab.html)
