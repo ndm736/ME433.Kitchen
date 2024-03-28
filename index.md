@@ -263,3 +263,4 @@ Add your recipe to the bulleted list:
 - [Garlic Butter Chicken](./recipes/GarlicButterChicken.md)
 - [Fancy Scrambled Eggs](./recipes/Fancy_Scrambled_Eggs.md)
 - [Chocolate Covered Strawberries](./recipes/chocstrawberries.html)
+- [Black Pepper Beef Cube](./recipes/blackpepperbeefcube.html)
