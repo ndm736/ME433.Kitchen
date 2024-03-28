@@ -274,3 +274,4 @@ Add your recipe to the bulleted list:
 - [Fried Eggs](./recipes/Zac_Fried_Egg.md)
 - [Lauren's Chocolate Chip Cookies](./recipes/ChocoChipCookies.md)
 - [Swedish Pancakes](./recipes/Swedish_Pancakes.md)
+- [Mumbai's Pav Bhaji](./recipes/Mumbai's_Pav_Bhaji.md)
