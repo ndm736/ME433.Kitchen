@@ -274,3 +274,5 @@ Add your recipe to the bulleted list:
 - [Fried Eggs](./recipes/Zac_Fried_Egg.md)
 - [Lauren's Chocolate Chip Cookies](./recipes/ChocoChipCookies.md)
 - [Swedish Pancakes](./recipes/Swedish_Pancakes.md)
+- [Easy Mac and Cheese](./recipes/EasyMacAndCheese.html)
+
