@@ -291,3 +291,4 @@ Add your recipe to the bulleted list:
 - [Cilantro Lime Sauce](./recipes/CilantroLimeSauce.html)
 - [Smoothie](./recipes/Smoothie.html)
 - [Baked Alaska](./recipes/BakedAlaska.md)
+- [Risotto](./recipes/Risotto.html)
