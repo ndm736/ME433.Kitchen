@@ -10,6 +10,7 @@ UserID: rlpardoe
 # Easy Mac'n Cheese
  I am an incredibly lazy cook, this is a way for me to get some protein with my pasta without going through the trouble of cooking meat.
 
+(Username: rlpardoe)
 * * *
 
 ## Ingredients
