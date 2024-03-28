@@ -297,4 +297,4 @@ Add your recipe to the bulleted list:
 - [Graham's Pasta](./recipes/graham_pasta.md)
 - [Tostones](./recipes/Tostones.md)
 - [GlutenFreeQuesadillas](./recipes/GlutenFreeQuesadillas.html)
-- [New York Style Cheesecake](./recipes/NewYorkStyleCheesecake.md)
+- [Chocolate Chip Banana Bread](./recipes/bananabread_chocolatechip.md)
