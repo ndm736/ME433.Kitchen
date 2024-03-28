@@ -4,7 +4,11 @@ layout: default
 
 # Swedish pancakes recipe
  This is a swedish pancake recipe that is epic. They are kinda like crepes but not. Super easy, quick, and delicious.
- 
+ <!---
+Put your name or github username somewhere:
+Github userID: Mjenz
+Name: Michael Jenz
+-->
 ## Ingredients:
  
 -    2 Eggs
