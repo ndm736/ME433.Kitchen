@@ -284,3 +284,4 @@ Add your recipe to the bulleted list:
 - [Easy Mac and Cheese](./recipes/EasyMacAndCheese.html)
 - [Yichen's Medium Ribeye Steak](./recipes/Yichen's_Medium_Ribeye_Steak.html)
 - [Chocolatefudgecake](./recipes/Chocolatefudgecake.html)
+- [Chocolatefudgecake](./recipes/Chocolate fudge cake.html)

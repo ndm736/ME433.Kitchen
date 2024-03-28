@@ -17,6 +17,7 @@ Sashimi is a Japanese dish containing raw seafoods such as fish, shell fish, or 
 2. Grind the Wasabi with Wasabi grater into a puree.
 3. Serve the sashimi with the Wasabi puree and a disk of soy sauce.
 
-Enjoy!!!
+Enjoy!
+
 
 [back to index](../)
