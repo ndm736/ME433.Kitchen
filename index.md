@@ -298,3 +298,4 @@ Add your recipe to the bulleted list:
 - [Tostones](./recipes/Tostones.md)
 - [GlutenFreeQuesadillas](./recipes/GlutenFreeQuesadillas.html)
 - [Chocolate Chip Banana Bread](./recipes/bananabread_chocolatechip.md)
+- [Shredded Chicken Salad](./recipes/ShreddedChickenSalad.md)
