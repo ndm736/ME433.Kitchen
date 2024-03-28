@@ -295,4 +295,4 @@ Add your recipe to the bulleted list:
 - [Risotto](./recipes/Risotto.html)
 - [Bacon-Cheddar Mashed Potatoes](./recipes/BaconCheddarMashedPotatoes.md)
 - [Graham's Pasta](./recipes/graham_pasta.md)
-- [Tostones](./recipes/Tostones.html)
+- [Tostones](./recipes/Tostones.md)
