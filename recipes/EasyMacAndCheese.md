@@ -1,13 +1,17 @@
 ---
 layout: default
 ---
+
 <!---
 Robert Pardoe
 UserID: rlpardoe
 -->
+
  # Easy Mac'n Cheese
  I am an incredibly lazy cook, this is a way for me to get some protein with my pasta without going through the trouble of cooking meat.
+
 * * *
+
  ## Ingredients
  *  1-2 cups of milk
  *  1-2 Tbsp butter
@@ -18,7 +22,9 @@ UserID: rlpardoe
  ### Optional Ingredients
  *  Panko bread crumbs
  *  Ground black pepper
+
 * * *
+
  ## Instructions
 1.  Sprinkle some salt into a pot
 2.  Fill the pot with water and set in on a burner to boil
@@ -33,4 +39,5 @@ UserID: rlpardoe
 <!--
 Keep this link to return to the index
 -->
+
 [back to index](../)
