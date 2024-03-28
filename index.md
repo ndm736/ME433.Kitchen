@@ -301,4 +301,4 @@ Add your recipe to the bulleted list:
 - [New York Style Cheesecake](./recipes/NewYorkStyleCheesecake.md)
 - [Shredded Chicken Salad](./recipes/ShreddedChickenSalad.md)
 - [Royal Icing](./recipes/RoyalIcing.html)
-- [Eggo Waffles](./reciples/Eggo_Waffles.md)
+- [Eggo Waffles](./recipes/Eggo_Waffles.md)
