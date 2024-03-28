@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Garlic Cilantro Lime Sauce
+# Carter's Garlic Cilantro Lime Sauce
 A super easy cilantro lime sauce recipe to put on whatever food you like.
 
 ## Ingredients
