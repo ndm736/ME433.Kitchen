@@ -290,3 +290,4 @@ Add your recipe to the bulleted list:
 - [Mole Sauce](./recipes/MoleSauce.html)
 - [Cilantro Lime Sauce](./recipes/CilantroLimeSauce.html)
 - [Smoothie](./recipes/Smoothie.html)
+- [Baked Alaska](./recipes/BakedAlaska.md)
