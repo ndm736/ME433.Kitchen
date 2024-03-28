@@ -287,3 +287,4 @@ Add your recipe to the bulleted list:
 - [Chocolatefudgecake](./recipes/Chocolatefudgecake.html)
 - [Chocolatefudgecake](./recipes/Chocolate fudge cake.html)
 - [Tea Eggs](./recipes/Tea_Eggs.html)
+- [Cilantro Lime Sauce](./recipes/CilantroLimeSauce.html)
