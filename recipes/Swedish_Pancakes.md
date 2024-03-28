@@ -23,3 +23,8 @@
 10.   Pour batter in from the center (enough to fill up the pan). They are not supposed to be thick
 11.   Let it cook and flip when ready
 12.   Put on plate and serve
+
+<!--
+Keep this link to return to the index
+-->
+[back to index](../)
