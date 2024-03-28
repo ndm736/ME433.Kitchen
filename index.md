@@ -302,3 +302,4 @@ Add your recipe to the bulleted list:
 - [Shredded Chicken Salad](./recipes/ShreddedChickenSalad.md)
 - [Royal Icing](./recipes/RoyalIcing.html)
 - [Eggo Waffles](./recipes/Eggo_Waffles.md)
+- [Collin's Cookies](./recipes/Collin_Cookies.md)
