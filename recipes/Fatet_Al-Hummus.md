@@ -11,7 +11,6 @@ This is a comment. Note the triple dash to start, but double to end
 <!---
 Put your name or github username somewhere
 -->
-My SO prefers to eat gluten free, and I love buying bananas and not eating them before they go bad, so this is what I do with them. Makes 12 muffins.
 
 ### Ingredients
 - 3 cups Chickpeas
@@ -34,7 +33,7 @@ My SO prefers to eat gluten free, and I love buying bananas and not eating them 
 6. Mix half of chickpeas liquid with bread, then add the other half.
 7. Garnish with chickpeas, cumin, parsley, and pine nuts.
 
-Enjoy!
+This is a must-try recipe!
 
 <!--
 Keep this link to return to the index
