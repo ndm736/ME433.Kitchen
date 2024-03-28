@@ -283,11 +283,7 @@ Add your recipe to the bulleted list:
 - [Soup Dumplings](./recipes/soupdumplings.html)
 - [Scallion Oil Flavored Swimming Crab](./recipes/scallion_oil_flavored_swimming_crab.html)
 - [Easy Mac and Cheese](./recipes/EasyMacAndCheese.html)
-<<<<<<< Updated upstream
 - [Yichen's Medium Ribeye Steak](./recipes/Yichen's_Medium_Ribeye_Steak.html)
 - [Chocolatefudgecake](./recipes/Chocolatefudgecake.html)
 - [Chocolatefudgecake](./recipes/Chocolate fudge cake.html)
-- [Tea Eggs](./recipes/Tea Eggs.html)
-=======
-- [Tea Eggs](./recipes/Tea Eggs.html)
->>>>>>> Stashed changes
+- [Tea Eggs](./recipes/Tea_Eggs.html)
