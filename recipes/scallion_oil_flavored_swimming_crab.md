@@ -3,11 +3,11 @@
     Github username: Geo-Li
 -->
 
-# Geo's Scallion Oil Flavored Swimming Crab
+## Geo's Scallion Oil Flavored Swimming Crab
 
 This classic seafood dish from Zhoushan, where I grew up, is something my mom cooks for me every time I go back to visit her. I love serving it to my friends too, and they can't get enough of it. The recipe's very simple, but the flavor is next-level. I hope this dish inspires people to start appreciating seafood more.
 
-## Ingredients
+### Ingredients
 
 - 2 swimming crabs
 - 2 green onions
@@ -16,7 +16,7 @@ This classic seafood dish from Zhoushan, where I grew up, is something my mom co
 - 2 tablespoons of oil
 - 2 slices of ginger (optional, to balance the seafood flavor)
 
-## Instructions
+### Instructions
 
 1. Wash the swimming crab, cut the crab into smaller pieces, and remove the gills, stomach, and other inedible parts.
 2. Mince the garlic and cut the green onions into smaller pieces.
