@@ -184,6 +184,7 @@ Add your recipe to the bulleted list:
 - [Millionaire's Shortbread](./recipes/MillionairesShortbread.html)
 - [Scrambled Eggs](./recipes/Scarmbled_Eggs.html)
 - [Sarma](./recipes/sarma.html)
+- [Sashimi](./recipes/Sashimi.html)
 - [Ramen](./recipes/ramen.html)
 - [Brownies](./recipes/Brownies.html)
 - [Stinky Tofu](./recipes/StinkyTofu.html)
