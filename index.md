@@ -303,3 +303,4 @@ Add your recipe to the bulleted list:
 - [Royal Icing](./recipes/RoyalIcing.html)
 - [Eggo Waffles](./recipes/Eggo_Waffles.md)
 - [Collin's Cookies](./recipes/Collin_Cookies.md)
+- [Honey Butter](./recipes/honeybutter.md)
