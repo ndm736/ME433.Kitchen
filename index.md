@@ -296,3 +296,4 @@ Add your recipe to the bulleted list:
 - [Bacon-Cheddar Mashed Potatoes](./recipes/BaconCheddarMashedPotatoes.md)
 - [Graham's Pasta](./recipes/graham_pasta.md)
 - [Tostones](./recipes/Tostones.md)
+- [GlutenFreeQuesadillas](./recipes/GlutenFreeQuesadillas.html)
