@@ -17,7 +17,7 @@ UserID: rlpardoe
  *  1-2 Tbsp butter
  *  Pinch of salt
  *  Half a bag of your favorite finely shredded cheddar
- *  1kg of elbow noodles
+ *  1Lb of elbow noodles
 
  ### Optional Ingredients
  *  Panko bread crumbs
@@ -39,5 +39,4 @@ UserID: rlpardoe
 <!--
 Keep this link to return to the index
 -->
-
 [back to index](../)
