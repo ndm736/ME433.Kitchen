@@ -293,3 +293,4 @@ Add your recipe to the bulleted list:
 - [Smoothie](./recipes/Smoothie.html)
 - [Baked Alaska](./recipes/BakedAlaska.md)
 - [Risotto](./recipes/Risotto.html)
+- [Bacon-Cheddar Mashed Potatoes](./recipes/BaconCheddarMashedPotatoes.md)
