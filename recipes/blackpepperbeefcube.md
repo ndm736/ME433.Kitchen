@@ -5,7 +5,7 @@ layout: default
 <!---
 github id: hy4l1nr
 -->
-It's a Chinese style beef with rich sauce, tastes really good when mixes with rice
+It's a Chinese style beef with rich sauce, tastes perfect when mix with rice
 
 ### Ingredients
 - 1 thick cut steak(sirloin)
