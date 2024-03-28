@@ -16,6 +16,7 @@ Here is my example, [Banana Muffins](./recipes/bananamuffins.html)
 
 Add your recipe to the bulleted list:
 - [Banana Muffins](./recipes/bananamuffins.html) <!--- The link ends in html even though the file ends in .md -->
+- [Creamy Chicken Piccata](./recipes/CreamyChickenPiccata.html)
 - [South African Biltong](./recipes/MarnoSouthAfricanBiltong.html)
 - [Sri Lankan tea](./recipes/SriLankanTea.html)
 - [Creme Brulee](./recipes/Creme_Brulee.html)
@@ -262,6 +263,7 @@ Add your recipe to the bulleted list:
 - [Simple Jumbalaya](./recipes/jumbalaya.md)
 - [Garlic Butter Chicken](./recipes/GarlicButterChicken.md)
 - [Fancy Scrambled Eggs](./recipes/Fancy_Scrambled_Eggs.md)
+- [Fatet Al-Hummus](./recipes/Fatet_Al-Hummus.md)
 - [Chocolate Covered Strawberries](./recipes/chocstrawberries.html)
 - [Black Pepper Beef Cube](./recipes/blackpepperbeefcube.html)
 - [Lemon Butter Garlic Capers Olive Oil Shrimp](./recipes/LemonButterGarlicCaperShrimp.md)
@@ -278,5 +280,6 @@ Add your recipe to the bulleted list:
 - [Mumbai's Pav Bhaji](./recipes/Mumbai's_Pav_Bhaji.md)
 - [Apple Crisp](./recipes/AppleCrisp.html)
 - [Soup Dumplings](./recipes/soupdumplings.html)
+- [Scallion Oil Flavored Swimming Crab](./recipes/scallion_oil_flavored_swimming_crab.html)
 - [Easy Mac and Cheese](./recipes/EasyMacAndCheese.html)
 
