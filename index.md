@@ -273,5 +273,4 @@ Add your recipe to the bulleted list:
 - [Peking Duck](./recipes/Peking_Duck.md)
 - [Fried Eggs](./recipes/Zac_Fried_Egg.md)
 - [Lauren's Chocolate Chip Cookies](./recipes/ChocoChipCookies.md)
-- [Swedish Pancakes](./recipes/SwedishPancakes.html)
 - [Swedish Pancakes](./recipes/Swedish_Pancakes.md)
