@@ -299,3 +299,4 @@ Add your recipe to the bulleted list:
 - [GlutenFreeQuesadillas](./recipes/GlutenFreeQuesadillas.html)
 - [Chocolate Chip Banana Bread](./recipes/bananabread_chocolatechip.md)
 - [New York Style Cheesecake](./recipes/NewYorkStyleCheesecake.md)
+- [Shredded Chicken Salad](./recipes/ShreddedChickenSalad.md)
