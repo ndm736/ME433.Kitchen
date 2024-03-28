@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Swedish pancakes recipe
  This is a swedish pancake recipe that is epic. They are kinda like crepes but not. Super easy, quick, and delicious.
  
