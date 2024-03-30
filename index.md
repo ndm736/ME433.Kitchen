@@ -305,4 +305,5 @@ Add your recipe to the bulleted list:
 - [Collin's Cookies](./recipes/Collin_Cookies.md)
 - [Honey Butter](./recipes/honeybutter.md)
 - [Keema Gobi](./recipes/KeemaGobi.html)
-- [Soup](./recipes/Soup.html)
+- [Jalebi](./recipes/Jalebi.md)
+- [Soup](./recipes/Soup.md)
