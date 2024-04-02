@@ -11,10 +11,28 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-Somali " Pancakes"
 
-Ingradients:
- 
+ # Malawah " Somali Pancakes"
+
+
+### Ingradients:
+-> 2 cups all-purpose flour
+-> 2 1/2 cups milk
+-> 2 large eggs
+-> 1 tablespoon granulated sugar
+-> 1/2 teaspoon ground cardamom
+-> 1/2 teaspoon ground ginger
+-> Pinch kosher salt
+-> 2 tablespoons canola oil or butter, for frying
+-> Honey, butter, or sugar, for garnish
+
+
+
+
+ # Malawah " Somali Pancakes"
+
+
+ ## Ingradients:
 -> 2 cups all-purpose flour
 -> 2 1/2 cups milk
 -> 2 large eggs
