@@ -307,4 +307,6 @@ Add your recipe to the bulleted list:
 - [Keema Gobi](./recipes/KeemaGobi.html)
 - [Jalebi](./recipes/Jalebi.md)
 - [Soup](./recipes/Soup.md)
-- [Lucas's Mom's Spaghetti](./Lucas's_Mom's_Spaghetti.html)
+- [Lucas's Mom's Spaghetti](./recipes/Lucas's_Mom's_Spaghetti.html)
+- [Shio Ramen](./recipes/ShioRamen.md)
+- [HongyuanQichocolatemuffin](./recipes/HongyuanQichocolatemuffin.md)
