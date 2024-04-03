@@ -18,10 +18,10 @@ Syntax highlighted code block
 - 1 tablespoon olive oil
 
 ## Directions:
-o Tear up bread slices into the bowl of a food processor; process into fine crumbs. 
-o Add ground lamb and egg; process until blended. 
-o Add parsley, garlic, cumin, mint, allspice, salt, and pepper; process until evenly combined.
-o Roll lamb mixture into small meatballs.
-o Heat olive oil in a large skillet over medium heat. 
-o Cook meatballs in batches, turning occasionally until browned on all sides, 4 to 5 minutes per batch. 
-o Transfer to a paper towel-lined plate using a slotted spoon.
+- Tear up bread slices into the bowl of a food processor; process into fine crumbs. 
+- Add ground lamb and egg; process until blended.
+- Add parsley, garlic, cumin, mint, allspice, salt, and pepper; process until evenly combined.
+- Roll lamb mixture into small meatballs.
+- Heat olive oil in a large skillet over medium heat.
+- Cook meatballs in batches, turning occasionally until browned on all sides, 4 to 5 minutes per batch.
+- Transfer to a paper towel-lined plate using a slotted spoon.
