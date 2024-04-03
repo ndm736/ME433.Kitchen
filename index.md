@@ -19,7 +19,7 @@ Add your recipe to the bulleted list:
 - [Creamy Chicken Piccata](./recipes/CreamyChickenPiccata.html)
 - [South African Biltong](./recipes/MarnoSouthAfricanBiltong.html)
 - [Sri Lankan tea](./recipes/SriLankanTea.html)
-- [Kofte](./recipes/kofte.html)
+- [Kofte](./recipes/Kofte.html)
 - [Creme Brulee](./recipes/Creme_Brulee.html)
 - [The Undergrad Skillet](./recipes/undergradSkillet.html)
 - [Camping Burrito Bowls](./recipes/CampingBurritoBowls.html)
