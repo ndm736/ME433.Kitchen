@@ -1,23 +1,16 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Introduction
 
 This is how Uncle Roger makes his egg fried rice. It's kind of fire.
+
 # Ingredients
 
 Day-old rice 
+
 Eggs
+
 Green onions
+
 Salt (for extra flavor, you can add a touch of chicken bouillon or MSG as well)
 
 ## Instructions
