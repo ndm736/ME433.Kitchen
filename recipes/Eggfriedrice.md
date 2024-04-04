@@ -5,10 +5,10 @@ This is how Uncle Roger makes his egg fried rice. It's kind of fire.
 
 ## Ingredients
 
-Day old rice
-2 Eggs
-Seasoning Oil
-Green onion
+Day old rice  
+2 Eggs  
+Seasoning Oil  
+Green onion  
 Salt (based on preference)
 
 ## Instructions
