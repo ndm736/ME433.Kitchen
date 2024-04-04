@@ -311,3 +311,4 @@ Add your recipe to the bulleted list:
 - [Lucas's Mom's Spaghetti](./recipes/Lucas's_Mom's_Spaghetti.html)
 - [Shio Ramen](./recipes/ShioRamen.md)
 - [HongyuanQichocolatemuffin](./recipes/HongyuanQichocolatemuffin.md)
+- [GarlicSoyChicken](./recipes/GarlicSoyChicken.html)
