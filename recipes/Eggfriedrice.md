@@ -5,9 +5,9 @@ This is how Uncle Roger makes his egg fried rice. It's kind of fire.
 
 # Ingredients
 
-Day-old rice 
-Eggs
-Green onions
+Day-old rice \n
+Eggs \n
+Green onions \n
 Salt (for extra flavor, you can add a touch of chicken bouillon or MSG as well)
 
 ## Instructions
