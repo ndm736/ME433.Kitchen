@@ -309,6 +309,7 @@ Add your recipe to the bulleted list:
 - [Jalebi](./recipes/Jalebi.md)
 - [Soup](./recipes/Soup.md)
 - [Lucas's Mom's Spaghetti](./recipes/Lucas's_Mom's_Spaghetti.html)
+- [Egg Fried Rice](./recipes/Eggfriedrice.md)
 - [Shio Ramen](./recipes/ShioRamen.md)
 - [HongyuanQichocolatemuffin](./recipes/HongyuanQichocolatemuffin.md)
 - [GarlicSoyChicken](./recipes/GarlicSoyChicken.html)
