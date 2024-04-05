@@ -313,3 +313,4 @@ Add your recipe to the bulleted list:
 - [Shio Ramen](./recipes/ShioRamen.md)
 - [HongyuanQichocolatemuffin](./recipes/HongyuanQichocolatemuffin.md)
 - [GarlicSoyChicken](./recipes/GarlicSoyChicken.html)
+- [Cortado](./recipes/Cortado.html)
