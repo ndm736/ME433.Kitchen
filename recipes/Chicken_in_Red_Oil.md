@@ -55,4 +55,4 @@ Good Luck!
 
 github: ShrewdVan
 
-[back to index](../recipes/).
+[back to index](../).
