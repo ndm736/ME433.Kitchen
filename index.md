@@ -314,3 +314,4 @@ Add your recipe to the bulleted list:
 - [HongyuanQichocolatemuffin](./recipes/HongyuanQichocolatemuffin.md)
 - [GarlicSoyChicken](./recipes/GarlicSoyChicken.html)
 - [Cortado](./recipes/Cortado.html)
+- [Chicken in Red Oil](./recipes/Chicken_in_Red_Oil.md)
