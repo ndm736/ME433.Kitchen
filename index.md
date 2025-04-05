@@ -315,3 +315,4 @@ Add your recipe to the bulleted list:
 - [GarlicSoyChicken](./recipes/GarlicSoyChicken.html)
 - [Cortado](./recipes/Cortado.html)
 - [Egg Thing](./recipes/EggThing.html)
+- [Älplermagronen](./recipes/alplermagronen.html)
