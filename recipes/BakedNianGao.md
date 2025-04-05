@@ -26,7 +26,7 @@ This dessert is super easy to make and one my mom taught me. It has a mild cocon
 
 ### Instructions
 1. Preheat the oven to 375F. 
-2. Line a 9x13 pan with parchement paper.
+2. Line a 9x13 pan with parchement paper and a little bit of oil or butter.
 3. Mix together the oil, coconut milk, eggs, and milk. 
 4. Add in the flour, sugar, salt, and baking powder. 
 5. Mix thoroughly until the the batter is smooth.
