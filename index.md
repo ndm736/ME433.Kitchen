@@ -318,3 +318,4 @@ Add your recipe to the bulleted list:
 - [Egg Thing](./recipes/EggThing.html)
 - [Älplermagronen](./recipes/alplermagronen.html)
 - [Cheesy Pan Pizza](./recipes/CheesyPanPizza.html)
+- [Baked Nian Gao](./recipes/BakedNianGao.html)
