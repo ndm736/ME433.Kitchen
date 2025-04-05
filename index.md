@@ -316,3 +316,4 @@ Add your recipe to the bulleted list:
 - [Cortado](./recipes/Cortado.html)
 - [Egg Thing](./recipes/EggThing.html)
 - [Älplermagronen](./recipes/alplermagronen.html)
+- [Cheesy Pan Pizza](./recipes/CheesyPanPizza.html)
