@@ -5,17 +5,17 @@ layout: default
 
  # Crispy Cheese Pan Pizza 
 By Grace Jackson (Kinda)
-This is the King Arthur "Crispy Cheesy Pan Pizza" Recipie. 
+This is the King Arthur "Crispy Cheesy Pan Pizza" Recipe and my family loves it!  
 
 
 
 ### Ingredients:
--> 2 cups (240g) all-purpose flour
--> 3/4 teaspoon salt 
--> 1/2 teaspoon instant yeast (or active dry yeast)
--> 3/4 cup (170g) of water, lukewarm 
--> 1 Tablespoon (13g) of olive oil for the dough 
--> 1 1/2 Tablespoon (18g) of olive oil for the pan
+- 2 cups (240g) all-purpose flour 
+- 3/4 teaspoon salt 
+- 1/2 teaspoon instant yeast (or active dry yeast)
+- 3/4 cup (170g) of water, lukewarm 
+- 1 Tablespoon (13g) of olive oil for the dough 
+- 1 1/2 Tablespoon (18g) of olive oil for the pan
 
 ## Instructions
 
