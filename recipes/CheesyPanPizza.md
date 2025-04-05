@@ -4,11 +4,10 @@ layout: default
 
 # Crispy Cheese Pan Pizza 
 By Grace Jackson (Kinda)
-This is the King Arthur "Crispy Cheesy Pan Pizza" Recipe and my family loves it!  
+This is the King Arthur "Crispy Cheesy Pan Pizza" Recipe my Aunt Courtney showed me and it is sooo good (but does require some paitence)  
 
 
-
-## Ingredients:
+### Ingredients:
 - 2 cups (240g) all-purpose flour 
 - 3/4 teaspoon salt 
 - 1/2 teaspoon instant yeast (or active dry yeast)
@@ -16,27 +15,28 @@ This is the King Arthur "Crispy Cheesy Pan Pizza" Recipe and my family loves it!
 - 1 Tablespoon (13g) of olive oil for the dough 
 - 1 1/2 Tablespoon (18g) of olive oil for the pan
 
-## Instructions
+### Instructions
 
-### 24 - 72 Hours Before You Want Your Pizza: 
+#### 24 - 72 Hours Before You Want Your Pizza: 
 1. Weigh/Measure the Flour into a large mixing bowl 
- I highly reccomend using a baking scale rather than a measuring cup. 
-2. Add Salt, Yeast, Water, and 1T of the olive oil 
+    I highly reccomend using a baking scale rather than a measuring cup. 
+2. Add Salt, Yeast, Water, and 1T of the olive oil to the flour in the mixing bowl 
 3. Stir everything untill it is a sticky/shaggy ball of dough and cover the bowl 
-4. After _Five Minutes_: Fold The Dough by reaching under it and pulling the bottom of the dough to the top. Do 4 Folds, covering roughly all four 'sides'. 
-5. Repeat This Three More Times: Wait Five Minutes, Four Folds, Wait Five Minutes, For More Folds, Ect. 
-6. Let it Rest, Undisturbered, Covered  for _40 Minutes_ at room temperature. 
-7. Put The Bowl in the Fridge 
+4. After *Five Minutes*: Fold The Dough by reaching under it and pulling the bottom of the dough to the top. Do 4 Folds, covering roughly all four 'sides'. 
+5. Repeat This Three More Times: Wait Five Minutes, Four Folds, Wait Five Minutes, Four More Folds, Ect. 
+6. Let it Rest, Undisturbered, Covered  for *40 Minutes* at room temperature. 
+7. Put The Bowl in the Fridge To Rise and Chill 
 
-### 3 Hours Before You Want Your Pizza: 
+#### 3 Hours Before You Want Your Pizza: 
 1. Pour 1 1/2 T of olive oil into a cast iron (or other oven safe) pan 
-2. Transfer the Dough to the pan and coat both sides in the olive oil. Use your nuckles to spread the dough to the edge of the pan. 
-3. Cover and Let it Rise for _2 Hours_
-#### When it's done rising: 
+2. Transfer the Dough to the pan and coat both sides in the olive oil. Use your fingers to spread the dough to the edge of the pan and create divots. 
+3. Cover and Let it Rise for *2 Hours*
+##### When it is  done rising: 
 4. Turn on the Oven to 450F
 5. Add your topings. 
 6. Put the Pizza on the Bottom Rack of Your oven for 18-20 Minutes. 
 7. Enjoy :) 
+    Cutting the Pizza is usually easiest with a pair of kitchen scissors 
 
 [back to index](../)
 
