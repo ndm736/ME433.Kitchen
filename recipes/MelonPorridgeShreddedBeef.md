@@ -34,9 +34,7 @@ Bogobe jwa lerotse is a Botswanan porridge made from lerotse melon, sorghum meal
 3. Cook gently for another 30 minutes, until the lerotse can be whisked with a traditional wooden whisk (lehetho).
 4. Slowly stir in the bopi jwa mabele, a little at a time, while you whisk until all the lumps are broken down. At this point the mixture should be of a creamy consistency – the consistency of typical soft porridge. Cover the pot and allow to simmer.
 5. Add more mabele while stirring with a cooking stick (liso le le apayang) to avoid lumps. Continue adding mabele and stirring to a desired consistency and allow to cook for about 15 minutes.
-
 6. Add the madila, gently folding it into the boiling mixture.
-
 7. Reduce the heat and simmer for another 5 minutes.
 
 Note: Steps 1-3 can be prepared the day before. If the lerotse has been prepared in advance, add it to the pot and stir frequently until warm before adding the bopi jwa mabele.
