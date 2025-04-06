@@ -319,3 +319,4 @@ Add your recipe to the bulleted list:
 - [Älplermagronen](./recipes/alplermagronen.html)
 - [Cheesy Pan Pizza](./recipes/CheesyPanPizza.html)
 - [Baked Nian Gao](./recipes/BakedNianGao.html)
+- [Salsa Verde](./recipes/SalsaVerde.html)
