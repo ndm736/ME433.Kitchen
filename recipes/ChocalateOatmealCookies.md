@@ -7,9 +7,8 @@ This is a comment. Note the triple dash to start, but double to end
 -->
 
 ## Annagrace's Chocolate Oatmeal Cookies
-[label](https://www.hersheyland.com/recipes/chocolate-oatmeal-cookies.html)
+[Chewy chocolate oatmeal cookies!](https://www.hersheyland.com/recipes/chocolate-oatmeal-cookies.html)
 
-Chewy chocolate oatmeal cookies!
 
 ### Ingredients
 - 1 cup softened butter
