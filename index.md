@@ -328,3 +328,4 @@ Add your recipe to the bulleted list:
 - [Crockpot Bolognese](./recipes/Crockpot_Bolognese.html)
 - [Chocolate Oatmeal Cookies](./recipes/ChocalateOatmealCookies.md)
 - [Walnut Chocolate Chip Banana Bread](./recipes/walnut_chocolatechip_banana_bread.md)
+- [Vodka Sauce](./recipes/VodkaSauce.md)
