@@ -325,3 +325,4 @@ Add your recipe to the bulleted list:
 - [Salsa Verde](./recipes/SalsaVerde.html)
 - [Chicken in Red Oil](./recipes/Chicken_in_Red_Oil.md)
 - [Crockpot Bolognese](./recipes/Crockpot_Bolognese.html)
+- [Chocolate Oatmeal Cookies](./recipes/ChocalateOatmealCookies.md)
