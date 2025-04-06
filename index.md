@@ -117,6 +117,7 @@ Add your recipe to the bulleted list:
 - [Mac and Cheese](./recipes/MacandCheeseGodson.html)
 - [Gratin Savoyard](./recipes/GratinSavoyard.html)
 - [Steak](./recipes/Steak.html)
+- [Reverse Seared Steak](./recipes/ReverseSearedSteak.md)
 - [Sweet Corn Pork Rib Soup](./recipes/sweetcornporkribsoup.html)
 - [Kimchi Fried Rice](./recipes/KimchiFriedRice.html)
 - [Breakfast potatoes](./recipes/Breakfast_Potatoes.html)
