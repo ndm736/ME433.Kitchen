@@ -1,4 +1,4 @@
-# Sophia's Spanish Flan
+# Sophia Wang's Spanish Flan
 
 ## Ingredients
 
