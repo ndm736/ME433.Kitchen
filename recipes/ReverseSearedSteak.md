@@ -7,9 +7,8 @@ This is a comment. Note the triple dash to start, but double to end
 -->
 
 ## Steak
-<!---
 Ethan Foong - (foongi)
--->
+
 How to reverse sear steak
 
 ### Ingredients
