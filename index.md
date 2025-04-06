@@ -16,7 +16,7 @@ Here is my example, [Banana Muffins](./recipes/bananamuffins.html)
 
 Add your recipe to the bulleted list:
 - [Banana Muffins](./recipes/bananamuffins.html) <!--- The link ends in html even though the file ends in .md -->
-- [Sophia's Spanish Flan](./recipes/spanishflan.html)
+- [Sophia's Spanish Flan](./recipes/sophiasspanishflan.html)
 - [Creamy Chicken Piccata](./recipes/CreamyChickenPiccata.html)
 - [South African Biltong](./recipes/MarnoSouthAfricanBiltong.html)
 - [Sri Lankan tea](./recipes/SriLankanTea.html)
