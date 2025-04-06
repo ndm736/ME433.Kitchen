@@ -21,6 +21,7 @@ Add your recipe to the bulleted list:
 - [Sri Lankan tea](./recipes/SriLankanTea.html)
 - [Kofte](./recipes/Kofte.html)
 - [Creme Brulee](./recipes/Creme_Brulee.html)
+- [Biber Dolması (Turkish Stuffed Peppers)](./recipes/BiberDolması.html)
 - [The Undergrad Skillet](./recipes/undergradSkillet.html)
 - [Camping Burrito Bowls](./recipes/CampingBurritoBowls.html)
 - [Colombian Arroz Attollado](./recipes/arrozAtollado.html)
@@ -314,4 +315,3 @@ Add your recipe to the bulleted list:
 - [HongyuanQichocolatemuffin](./recipes/HongyuanQichocolatemuffin.md)
 - [GarlicSoyChicken](./recipes/GarlicSoyChicken.html)
 - [Cortado](./recipes/Cortado.html)
-- [Chicken in Red Oil](./recipes/Chicken_in_Red_Oil.md)
