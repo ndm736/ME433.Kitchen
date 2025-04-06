@@ -1,6 +1,6 @@
 # Melon Porridge with Shredded Beef (Bogobe jwa Lerotse ka Seswaa)
 
-![Bogobe_Seswaa](ME433.Kitchen\recipes\bogobejwalerotse_seswaa.jpg)
+![Bogobe_Seswaa](bogobejwalerotse_seswaa.jpg)
 
 Bogobe jwa lerotse is a Botswanan porridge made from lerotse melon, sorghum meal, and sour milk, offering a delicate flavor. It’s often served with seswaa, a tender shredded meat dish slow-cooked on the bone. Together, they form a traditional and beloved meal for special occasions and gatherings. 
 
