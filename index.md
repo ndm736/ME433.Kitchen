@@ -321,3 +321,4 @@ Add your recipe to the bulleted list:
 - [Cheesy Pan Pizza](./recipes/CheesyPanPizza.html)
 - [Baked Nian Gao](./recipes/BakedNianGao.html)
 - [Salsa Verde](./recipes/SalsaVerde.html)
+- [Chicken in Red Oil](./recipes/Chicken_in_Red_Oil.md)
