@@ -324,3 +324,4 @@ Add your recipe to the bulleted list:
 - [Baked Nian Gao](./recipes/BakedNianGao.html)
 - [Salsa Verde](./recipes/SalsaVerde.html)
 - [Chicken in Red Oil](./recipes/Chicken_in_Red_Oil.md)
+- [Crockpot Bolognese](./recipes/Crockpot_Bolognese.html)
