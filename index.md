@@ -16,11 +16,13 @@ Here is my example, [Banana Muffins](./recipes/bananamuffins.html)
 
 Add your recipe to the bulleted list:
 - [Banana Muffins](./recipes/bananamuffins.html) <!--- The link ends in html even though the file ends in .md -->
+- [Sophia's Spanish Flan](./recipes/sophiasspanishflan.html)
 - [Creamy Chicken Piccata](./recipes/CreamyChickenPiccata.html)
 - [South African Biltong](./recipes/MarnoSouthAfricanBiltong.html)
 - [Sri Lankan tea](./recipes/SriLankanTea.html)
 - [Kofte](./recipes/Kofte.html)
 - [Creme Brulee](./recipes/Creme_Brulee.html)
+- [Biber Dolması (Turkish Stuffed Peppers)](./recipes/BiberDolması.html)
 - [The Undergrad Skillet](./recipes/undergradSkillet.html)
 - [Camping Burrito Bowls](./recipes/CampingBurritoBowls.html)
 - [Colombian Arroz Attollado](./recipes/arrozAtollado.html)
@@ -314,4 +316,9 @@ Add your recipe to the bulleted list:
 - [HongyuanQichocolatemuffin](./recipes/HongyuanQichocolatemuffin.md)
 - [GarlicSoyChicken](./recipes/GarlicSoyChicken.html)
 - [Cortado](./recipes/Cortado.html)
+- [Egg Thing](./recipes/EggThing.html)
+- [Älplermagronen](./recipes/alplermagronen.html)
+- [Cheesy Pan Pizza](./recipes/CheesyPanPizza.html)
+- [Baked Nian Gao](./recipes/BakedNianGao.html)
+- [Salsa Verde](./recipes/SalsaVerde.html)
 - [Chicken in Red Oil](./recipes/Chicken_in_Red_Oil.md)
