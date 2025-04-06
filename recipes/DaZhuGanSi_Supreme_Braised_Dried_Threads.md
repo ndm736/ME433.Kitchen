@@ -1,5 +1,4 @@
-
-大煮乾絲 (Da Zhu Gan Si, Literal translation: Supreme Braised Dried Threads)
+# 大煮乾絲 (Da Zhu Gan Si, Literal translation: Supreme Braised Dried Threads)
 Author: Xiaoran Yang
 First created time: Apr/05/2025
 
