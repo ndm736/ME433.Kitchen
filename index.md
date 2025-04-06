@@ -326,3 +326,4 @@ Add your recipe to the bulleted list:
 - [Chicken in Red Oil](./recipes/Chicken_in_Red_Oil.md)
 - [Crockpot Bolognese](./recipes/Crockpot_Bolognese.html)
 - [Chocolate Oatmeal Cookies](./recipes/ChocalateOatmealCookies.md)
+- [Walnut Chocolate Chip Banana Bread](./recipes/walnut_chocolatechip_banana_bread.md)
