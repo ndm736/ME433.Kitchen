@@ -345,3 +345,4 @@ Add your recipe to the bulleted list:
 - [Fish Curry](./recipes/FishCurry.md)
 - [Stew](./recipes/Stew.md)
 - [Akara](./recipes/Akara.md)
+- [Sofrito](./recipes/Sofrito.md)
