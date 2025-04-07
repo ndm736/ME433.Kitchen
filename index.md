@@ -343,3 +343,4 @@ Add your recipe to the bulleted list:
 - [Ikuradon](recipes/ikuradon.md)
 - [Chelokebab](recipes/Chelokebab.md)
 - [Fish Curry](./recipes/FishCurry.md)
+- [Stew](./recipes/Stew.md)
