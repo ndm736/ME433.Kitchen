@@ -15,6 +15,8 @@ Here is my example, [Banana Muffins](./recipes/bananamuffins.html)
 ## Our recipes
 
 Add your recipe to the bulleted list:
+- [Berry Smoothie](./recipes/berry_smoothie.md)
+- [Jonathan Bell's Microwaved Bread](./recipes/MicrowavedBread.md)
 - [Banana Muffins](./recipes/bananamuffins.html) <!--- The link ends in html even though the file ends in .md -->
 - [Botswana Melon Porridge with Shredded Beef](./recipes/MelonPorridgeShreddedBeef.md)
 - [Sophia's Spanish Flan](./recipes/sophiasspanishflan.html)
@@ -330,4 +332,4 @@ Add your recipe to the bulleted list:
 - [Walnut Chocolate Chip Banana Bread](./recipes/walnut_chocolatechip_banana_bread.md)
 - [Vodka Sauce](./recipes/VodkaSauce.md)
 - [Five Spice Beef Shank](./recipes/FiveSpiceBeefShank.md)
-- [Rosol (Chicken Soup)](./recipes/Rosol.md)
+- [Rosol](./recipes/Rosol.md)
