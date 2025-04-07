@@ -333,3 +333,4 @@ Add your recipe to the bulleted list:
 - [Vodka Sauce](./recipes/VodkaSauce.md)
 - [Five Spice Beef Shank](./recipes/FiveSpiceBeefShank.md)
 - [Rosol](./recipes/Rosol.md)
+- [Scallion Pancakes](./recipes/pajeon.md)
