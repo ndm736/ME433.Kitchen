@@ -344,3 +344,4 @@ Add your recipe to the bulleted list:
 - [Chelokebab](recipes/Chelokebab.md)
 - [Fish Curry](./recipes/FishCurry.md)
 - [Stew](./recipes/Stew.md)
+- [Akara](./recipes/Akara.md)
