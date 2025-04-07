@@ -337,3 +337,4 @@ Add your recipe to the bulleted list:
 - [Lemon Zucchini Cookies](./recipes/lemonzucchinicookies.md)
 - [GBR](./recipes/GBR.md)- [Marble Cake](recipes/Aseel_MarbleCake.md)
 - [Shakshuka](recipes/shakshuka.md)
+- [Ikuradon](recipes/ikuradon.md)
