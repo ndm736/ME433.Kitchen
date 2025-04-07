@@ -34,6 +34,7 @@ Add your recipe to the bulleted list:
 - [Crockpot Chicken Tacos](./recipes/CrockpotChickenTacos.html)
 - [Interpretive Spinach Breakfast Pancakes](./recipes/breakfastpancake.html)
 - [Beef Stew](./recipes/beefstew.html)
+- [Scallion Oil Chicken](./recipes/ScallionOilChicken.md)
 - [Perfect Instant Ramen](./recipes/perfectramen.html)
 - [Grilled Cheese](./recipes/grilledcheese.html)
 - [Overnight Oats](./recipes/overnightoats.html)
