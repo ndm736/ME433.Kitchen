@@ -8,9 +8,9 @@ This is a comment. Note the triple dash to start, but double to end
 
 ## Madeline's Peanut Butter and Pickle Sandwich 
 <!---
-Put your name or github username somewhere
--->
 github username: mconter88688
+-->
+
 
 It is sad that people do not give this sandwich a chance, as it is pretty good! I recommend this recipe
 for anyone looking to elevate their sandwich game.
