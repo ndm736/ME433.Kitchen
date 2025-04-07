@@ -330,3 +330,4 @@ Add your recipe to the bulleted list:
 - [Walnut Chocolate Chip Banana Bread](./recipes/walnut_chocolatechip_banana_bread.md)
 - [Vodka Sauce](./recipes/VodkaSauce.md)
 - [Five Spice Beef Shank](./recipes/FiveSpiceBeefShank.md)
+- [Rosol (Chicken Soup)](./recipes/Rosol.md)
