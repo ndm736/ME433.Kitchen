@@ -2,7 +2,7 @@
 layout: default
 ---
 
-##Puerto Rican Sofrito Recipe
+## Puerto Rican Sofrito Recipe
 
 I found this recipe in talking with one staff working at Sargent dining hall, which is pretty interesting
 
