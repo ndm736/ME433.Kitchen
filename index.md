@@ -130,6 +130,7 @@ Add your recipe to the bulleted list:
 - [Caramelized Pork Bowl](./recipes/CaramelizedPorkBowl.html)
 - [Quiche](./recipes/quiche.html)
 - [Doughnuts](./recipes/Doughnuts.html)
+- [Hat Soup](./recipes/HatSoup.md)
 - [Egg Rolls](./recipes/Eggroll.html)
 - [Spanikopita(Greek Spinach Pie)](./recipes/Spanikopita.html)
 - [Lava Cake](./recipes/LavaCake.html)
@@ -338,3 +339,4 @@ Add your recipe to the bulleted list:
 - [GBR](./recipes/GBR.md)- [Marble Cake](recipes/Aseel_MarbleCake.md)
 - [Shakshuka](recipes/shakshuka.md)
 - [Ikuradon](recipes/ikuradon.md)
+- [Chelokebab](recipes/Chelokebab.md)
