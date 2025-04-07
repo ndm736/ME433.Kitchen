@@ -334,3 +334,4 @@ Add your recipe to the bulleted list:
 - [Five Spice Beef Shank](./recipes/FiveSpiceBeefShank.md)
 - [Rosol](./recipes/Rosol.md)
 - [Scallion Pancakes](./recipes/pajeon.md)
+- [Lemon Zucchini Cookies](./recipes/lemonzucchinicookies.md)
