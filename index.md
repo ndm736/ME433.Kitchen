@@ -340,3 +340,4 @@ Add your recipe to the bulleted list:
 - [Shakshuka](recipes/shakshuka.md)
 - [Ikuradon](recipes/ikuradon.md)
 - [Chelokebab](recipes/Chelokebab.md)
+- [Fish Curry](./recipes/FishCurry.md)
