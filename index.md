@@ -338,3 +338,4 @@ Add your recipe to the bulleted list:
 - [GBR](./recipes/GBR.md)- [Marble Cake](recipes/Aseel_MarbleCake.md)
 - [Shakshuka](recipes/shakshuka.md)
 - [Ikuradon](recipes/ikuradon.md)
+- [Chelokebab](recipes/Chelokebab.md)
