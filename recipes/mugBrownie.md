@@ -5,7 +5,7 @@ layout: default
 # Mug Brownie
 Easy brownie you can make in a mug
 
-## Ingradients:
+## **Ingredients**
 - 1/4 cup all-purpose flour
 - 1/4 cup brown sugar
 - 2 tbsp unsweetened cocoa powder
