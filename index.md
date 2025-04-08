@@ -25,6 +25,7 @@ Add your recipe to the bulleted list:
 - [South African Biltong](./recipes/MarnoSouthAfricanBiltong.html)
 - [Sri Lankan tea](./recipes/SriLankanTea.html)
 - [Kofte](./recipes/Kofte.html)
+- [Paella](./recipes/paella.html)
 - [Creme Brulee](./recipes/Creme_Brulee.html)
 - [Biber Dolması (Turkish Stuffed Peppers)](./recipes/BiberDolması.html)
 - [The Undergrad Skillet](./recipes/undergradSkillet.html)
