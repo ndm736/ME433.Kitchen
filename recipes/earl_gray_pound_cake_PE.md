@@ -6,7 +6,7 @@ layout: default
 I'm making up all of the measurements because I don't remember.
 
 ### Ingredients
-- 500g of all purpose flower 
+- 500g of all purpose flor
 - 10g baking soda
 - 5 earl gray tea bags
 - 500mL of milk
