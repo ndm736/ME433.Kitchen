@@ -9,7 +9,7 @@ This is a comment. Note the triple dash to start, but double to end
 ## Broccoli Beef
 <!---
 Put your name or github username somewhere
-usernam: rlb7543
+username: rlboyle
 -->
 
 I love this broccoli beef recipe!
