@@ -1,7 +1,9 @@
-
- # Soup pancakes (Fladle)
-
-
+---
+layout: default
+---
+ 
+ 
+ ### Soup pancakes (Fladle)
  ## Ingradients:
 -> 1 cup all-purpose flour
 -> 3/4 cup milk
