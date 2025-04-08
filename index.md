@@ -75,6 +75,7 @@ Add your recipe to the bulleted list:
 - [Brownie in a Mug](./recipes/BrownieInAMug.html)
 - [Dal Tadka](./recipes/daltadka.html)
 - [Leftover Salad Soup](./recipes/leftoversaladsoup.html)
+- [Sticky Toffee Pudding](./recipes/StickyToffeePudding.html)
 - [Crock-Pot French Toast](./recipes/crockpotfrenchtoast.html)
 - [Borscht](./recipes/borscht.html)
 - [Peanut Butter and Pickle Sandwich](./recipes/PB_and_pickle_sandwich.md)
