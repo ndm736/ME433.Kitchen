@@ -19,7 +19,7 @@ Easy brownie you can make in a mug
 
 
 
- ## Instructions:
+ ## **Instructions**
 1. Mix dry ingredients in a mug (flour, sugar, cocoa powder, and salt.)
 2. Add oil and water (or milk.)
 3. Stir until smooth
