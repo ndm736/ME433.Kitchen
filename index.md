@@ -354,3 +354,4 @@ Add your recipe to the bulleted list:
 - [Marble Cake](./recipes/Aseel_MarbleCake.md)
 - [Chicken Quesadillas](./recipes/ChickenQuesadillas.md)
 - [Dwight Shepard's Pie](./recipes/Dwight_Shepards_Pie.md)
+- [Mug Brownie](./recipes//mugBrownie.md)
