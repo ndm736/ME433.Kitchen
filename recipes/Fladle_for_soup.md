@@ -4,7 +4,7 @@ layout: default
  
  
  ### Soup pancakes (Fladle)
- ## Ingradients:
+ ## Ingredients:
 -> 1 cup all-purpose flour
 -> 3/4 cup milk
 -> 2 large eggs
