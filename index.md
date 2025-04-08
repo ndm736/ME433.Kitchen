@@ -351,6 +351,7 @@ Add your recipe to the bulleted list:
 - [Ikuradon](recipes/ikuradon.md)
 - [Chelokebab](recipes/Chelokebab.md)
 - [Fish Curry](./recipes/FishCurry.md)
+- [Ice Cubes](./recipes/icecubes.html)
 - [Stew](./recipes/Stew.md)
 - [Akara](./recipes/Akara.md)
 - [Sofrito](./recipes/Sofrito.md)
