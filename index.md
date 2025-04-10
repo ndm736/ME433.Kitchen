@@ -362,4 +362,4 @@ Add your recipe to the bulleted list:
 - [Earl Gray Pound Cake?](./recipes/earl_gray_pound_cake_PE.md)
 - [Flourless Chocolate Cake](./recipes/FlourlessChocolateCake.md)
 - [Fladle Soup Pancakes](./recipes/Fladle_for_soup.md)
-
+- [Korean Rice Cake](./recipes/KoreanRiceCake.md)
