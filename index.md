@@ -363,4 +363,5 @@ Add your recipe to the bulleted list:
 - [Flourless Chocolate Cake](./recipes/FlourlessChocolateCake.md)
 - [Fladle Soup Pancakes](./recipes/Fladle_for_soup.md)
 - [Nutella Milkshake](./recipes/nutellamilkshake.md)
+- [Budae-Jjigae](./recipes/budaejjigae.md)
 
