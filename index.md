@@ -365,4 +365,4 @@ Add your recipe to the bulleted list:
 - [Korean Rice Cake](./recipes/KoreanRiceCake.md)
 - [Nutella Milkshake](./recipes/nutellamilkshake.md)
 - [Budae-Jjigae](./recipes/budaejjigae.md)
-
+- [Mashed Potatoes](./recipes/mashedpotatoes.md)
