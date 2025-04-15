@@ -98,6 +98,7 @@ Add your recipe to the bulleted list:
 - [Coke Chicken Wing](./recipes/CokeChickenWing.html)
 - [Penne in Cream Sauce with Italian Sausage](./recipes/CreamyItalianSausagePenne.html)
 - [Pumpkin Cupcakes](./recipes/pumpkincupcakes.html)
+- [Snickerdoodle Cheesecake Cookies](./recipes/snickerdoodlecheesecakecookies.md)
 - [Chicken Quesadilla](./recipes/chickenquesadilla.html)
 - [Mushroom Pork](./recipes/mushroompork.html)
 - [Disaster](./recipes/disaster.html)
