@@ -367,3 +367,4 @@ Add your recipe to the bulleted list:
 - [Nutella Milkshake](./recipes/nutellamilkshake.md)
 - [Budae-Jjigae](./recipes/budaejjigae.md)
 - [Mashed Potatoes](./recipes/mashedpotatoes.md)
+- [Creamy Garlic Mushroom Pasta](./recipes/mushroompasta.md)
