@@ -368,3 +368,4 @@ Add your recipe to the bulleted list:
 - [Budae-Jjigae](./recipes/budaejjigae.md)
 - [Mashed Potatoes](./recipes/mashedpotatoes.md)
 - [Creamy Garlic Mushroom Pasta](./recipes/mushroompasta.md)
+- [Apricot Chicken Tagine](./recipes/ApricotChickenTagine.md)
