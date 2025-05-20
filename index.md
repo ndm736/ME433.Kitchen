@@ -369,3 +369,4 @@ Add your recipe to the bulleted list:
 - [Mashed Potatoes](./recipes/mashedpotatoes.md)
 - [Creamy Garlic Mushroom Pasta](./recipes/mushroompasta.md)
 - [Apricot Chicken Tagine](./recipes/ApricotChickenTagine.md)
+- [Brazilian Feijoada](./recipes/feijoada.md)
