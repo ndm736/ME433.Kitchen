@@ -23,4 +23,4 @@ layout: default
 7. Spread layers of peanut butter (or your preferred spread(s)) on each slice of toast.
 8. Add your preferred amount of cinammon to the spread.
 9. Spread your preferred amount of fresh whipped cream on one of the slices of toast.
-10. Assembled your sandwich and enjoy! 
+10. Assemble your sandwich and enjoy! 
