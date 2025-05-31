@@ -19,6 +19,7 @@ Add your recipe to the bulleted list:
 - [Berry Smoothie](./recipes/berry_smoothie.md)
 - [Jonathan Bell's Microwaved Bread](./recipes/MicrowavedBread.md)
 - [Banana Muffins](./recipes/bananamuffins.html) <!--- The link ends in html even though the file ends in .md -->
+- [Cloud Peanut Butter Sandwich](./recipes/cloudPBsandwich.html)
 - [Botswana Melon Porridge with Shredded Beef](./recipes/MelonPorridgeShreddedBeef.md)
 - [Sophia's Spanish Flan](./recipes/sophiasspanishflan.html)
 - [Creamy Chicken Piccata](./recipes/CreamyChickenPiccata.html)

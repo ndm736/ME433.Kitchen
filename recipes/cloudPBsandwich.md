@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# Recipe: Cloud Peanut Butter Sandwich
 
 # Ingredients
 
