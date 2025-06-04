@@ -22,6 +22,6 @@
 8. Serve warm, optionally with honey, butter, or sugar.
 
 
-Enjoy
+Enjoy!
 
 [back to index](../)
