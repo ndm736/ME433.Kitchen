@@ -65,6 +65,7 @@ Add your recipe to the bulleted list:
 - [FriedRice](./recipes/friedRice.html)
 - [Kung Pao Chicken](./recipes/kungpaochicken.html)
 - [Oyakodon](./recipes/oyakodon.html)
+- [Malawah "Oxtail"](./recipes/CarribeanOxtail.html)
 - [Milk Bread](./recipes/milkbread.html)
 - [Chilli Crab](./recipes/chillicrab.html)
 - [Aglio e Olio](./recipes/AglioEOlio.html)
