@@ -15,6 +15,9 @@ Here is my example, [Banana Muffins](./recipes/bananamuffins.html)
 ## Our recipes
 
 Add your recipe to the bulleted list:
+- [Duojiao Fish Head](./recipes/duojiao_fish_head.html)
+- [Breakfast Panini](./recipes/breakfast_panini.md)
+- [Sausage and Kale Pasta](./recipes/sausage_and_kale_pasta.md)
 - [Gluten Free Sugar Cookies](./recipes/Glutenfreesugarcookies.md)
 - [Broccoli Beef](./recipes/broccoli_beef.md)
 - [Berry Smoothie](./recipes/berry_smoothie.md)
@@ -41,6 +44,7 @@ Add your recipe to the bulleted list:
 - [Beef Stew](./recipes/beefstew.html)
 - [Scallion Oil Chicken](./recipes/ScallionOilChicken.md)
 - [Perfect Instant Ramen](./recipes/perfectramen.html)
+- [Chicken_65](./recipes/chicken_65.html)
 - [Grilled Cheese](./recipes/grilledcheese.html)
 - [Overnight Oats](./recipes/overnightoats.html)
 - [Pad Thai](./recipes/PadThai.html)
@@ -101,6 +105,7 @@ Add your recipe to the bulleted list:
 - [Coke Chicken Wing](./recipes/CokeChickenWing.html)
 - [Penne in Cream Sauce with Italian Sausage](./recipes/CreamyItalianSausagePenne.html)
 - [Pumpkin Cupcakes](./recipes/pumpkincupcakes.html)
+- [Xitlalli's Big Mac Tacos](./recipes/Xitlallis_Big_Mac_Tacos.md)
 - [Snickerdoodle Cheesecake Cookies](./recipes/snickerdoodlecheesecakecookies.md)
 - [Chicken Quesadilla](./recipes/chickenquesadilla.html)
 - [Mushroom Pork](./recipes/mushroompork.html)
@@ -391,3 +396,7 @@ Add your recipe to the bulleted list:
 - [Acai Smoothie Bowl](./recipes/AcaiSmoothieBowl.md)
 - [Kary's Gumbo](./recipes/gumbo.md)
 - [Stir-Fried Eggs](./recipes/StirFrieEgg.md)
+- [Roasted Broccoli](./recipes/roasted_broccoli.md)
+- [Brownies!](./recipes/brownie.html)
+- [Pumpkin Bread](./recipes/Pumpkin_Bread.md)
+- [Brown Butter Chocolate Chip Cookies](./recipes/Brown_Butter_Chocolate_Chip_Cookies.md)
