@@ -386,4 +386,5 @@ Add your recipe to the bulleted list:
 - [Baked Boursin Pasta](./recipes/BakedBoursinPasta.md)
 - [Guava Bread](./recipes/guavaBread.md)
 - [Lemonade](./recipes/lemonade.md)
-- [Maya's Steamed Egg](./recipes/maya-steamed_egg.md) 
+- [Maya's Steamed Egg](./recipes/maya-steamed_egg.md)
+- [Naleśniki](./recipes/nalesniki.md) 
