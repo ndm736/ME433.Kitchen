@@ -377,3 +377,4 @@ Add your recipe to the bulleted list:
 - [Ghanaian Jollof](./recipes/Jollof_Rice.md)
 - [Raspberry Chocolate Chip Cookies](./recipes/RaspberryChocolateChipCookies.md)
 - [Chocolate Chip Jumbles](./recipes/jumbles.md)
+- [Quick Pickle Veggies](./recipes/QuickPickleVeggies.md)
