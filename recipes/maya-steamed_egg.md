@@ -109,4 +109,4 @@ A **simple**, _yummy_, and ~~impossible to mess up~~ (okay, maybe slightly possi
 
 ### Maya's Final Thoughts...
 
-This dish is all about **texture** — once you get the silky (ideally not spongey) finish, you’ve mastered it.
+This dish is all about **texture**, so once you get the silky (ideally not spongey) finish, you’ve mastered it.
