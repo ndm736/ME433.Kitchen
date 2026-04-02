@@ -372,3 +372,4 @@ Add your recipe to the bulleted list:
 - [Creamy Garlic Mushroom Pasta](./recipes/mushroompasta.md)
 - [Apricot Chicken Tagine](./recipes/ApricotChickenTagine.md)
 - [Brazilian Feijoada](./recipes/feijoada.md)
+- [Soy Honey Glazed Salmon](./recipes/soy_honey_glazed_salmon.md)
