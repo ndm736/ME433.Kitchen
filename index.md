@@ -398,3 +398,4 @@ Add your recipe to the bulleted list:
 - [Stir-Fried Eggs](./recipes/StirFrieEgg.md)
 - [Roasted Broccoli](./recipes/roasted_broccoli.md)
 - [Brownies!](./recipes/brownie.html)
+- [Pumpkin Bread](./recipes/Pumpkin_Bread.md)
