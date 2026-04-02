@@ -378,4 +378,4 @@ Add your recipe to the bulleted list:
 - [Raspberry Chocolate Chip Cookies](./recipes/RaspberryChocolateChipCookies.md)
 - [Chocolate Chip Jumbles](./recipes/jumbles.md)
 - [Quick Pickle Veggies](./recipes/QuickPickleVeggies.html)
-- [Tahini Bana Bread] (./recipes/TahiniBananaBread.md)
+- [Tahini Banana Bread](./recipes/TahiniBananaBread.md)
