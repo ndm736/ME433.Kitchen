@@ -395,4 +395,4 @@ Add your recipe to the bulleted list:
 - [Kary's Gumbo](./recipes/gumbo.md)
 - [Stir-Fried Eggs](./recipes/StirFrieEgg.md)
 - [Roasted Broccoli](./recipes/roasted_broccoli.md)
-- [Brownies!] (./recipes/brownie.html)
+- [Brownies!](./recipes/brownie.html)
