@@ -391,3 +391,4 @@ Add your recipe to the bulleted list:
 - [Acai Smoothie Bowl](./recipes/AcaiSmoothieBowl.md)
 - [Kary's Gumbo](./recipes/gumbo.md)
 - [Stir-Fried Eggs](./recipes/StirFrieEgg.md)
+- [Brownies!] (./recipes/brownie.html)
