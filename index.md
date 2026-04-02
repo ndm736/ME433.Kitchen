@@ -372,6 +372,12 @@ Add your recipe to the bulleted list:
 - [Creamy Garlic Mushroom Pasta](./recipes/mushroompasta.md)
 - [Apricot Chicken Tagine](./recipes/ApricotChickenTagine.md)
 - [Brazilian Feijoada](./recipes/feijoada.md)
+- [Texas Toast](./recepies/texas_toast.md)
 - [Soy Honey Glazed Salmon](./recipes/soy_honey_glazed_salmon.md)
+- [Ghanaian Jollof](./recipes/Jollof_Rice.md)
 - [Raspberry Chocolate Chip Cookies](./recipes/RaspberryChocolateChipCookies.md)
+<<<<<<< HEAD
 - [Chocolate Chip Jumbles](./recipes/jumbles.md)
+=======
+
+>>>>>>> 83b5e76dc16e043ae39b37d47c618c7c10e1abcf
