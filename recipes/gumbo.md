@@ -1,6 +1,6 @@
 # Chicken and Sausage Gumbo
 
-![alt text](image.png)
+![alt text](https://images.squarespace-cdn.com/content/v1/5a972025697a98f7aa016c5a/42951fa2-e72e-412d-8899-1fa296110a3d/IMG_5725.jpg?format=1500w)
 
 ## Background:
 This is a recipe from [Kary's](https://shop.karysroux.com/collections/shop), which is a company based in Ville Platte, LA (close to my hometown!) and produces roux, which is the base for the Cajun dish gumbo. It's a stew commonly served over rice (or potato salad if you're from Ville Platte), and is great for cold weather!
