@@ -374,5 +374,6 @@ Add your recipe to the bulleted list:
 - [Brazilian Feijoada](./recipes/feijoada.md)
 - [Texas Toast](./recepies/texas_toast.md)
 - [Soy Honey Glazed Salmon](./recipes/soy_honey_glazed_salmon.md)
+- [Ghanian Jollof](./recipes/Jollof_Rice.md)
 - [Raspberry Chocolate Chip Cookies](./recipes/RaspberryChocolateChipCookies.md)
 
