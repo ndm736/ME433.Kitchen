@@ -374,3 +374,4 @@ Add your recipe to the bulleted list:
 - [Brazilian Feijoada](./recipes/feijoada.md)
 - [Soy Honey Glazed Salmon](./recipes/soy_honey_glazed_salmon.md)
 - [Raspberry Chocolate Chip Cookies](./recipes/RaspberryChocolateChipCookies.md)
+- [Chocolate Chip Jumbles](./recipes/jumbles.md)
