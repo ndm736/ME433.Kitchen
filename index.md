@@ -16,6 +16,7 @@ Here is my example, [Banana Muffins](./recipes/bananamuffins.html)
 
 Add your recipe to the bulleted list:
 - [Duojiao Fish Head](./recipes/duojiao_fish_head.md)
+- [Breakfast Panini](./recipes/breakfast_panini.md)
 - [Sausage and Kale Pasta](./recipes/sausage_and_kale_pasta.md)
 - [Gluten Free Sugar Cookies](./recipes/Glutenfreesugarcookies.md)
 - [Broccoli Beef](./recipes/broccoli_beef.md)
@@ -43,6 +44,7 @@ Add your recipe to the bulleted list:
 - [Beef Stew](./recipes/beefstew.html)
 - [Scallion Oil Chicken](./recipes/ScallionOilChicken.md)
 - [Perfect Instant Ramen](./recipes/perfectramen.html)
+- [Chicken_65](./recipes/chicken_65.html)
 - [Grilled Cheese](./recipes/grilledcheese.html)
 - [Overnight Oats](./recipes/overnightoats.html)
 - [Pad Thai](./recipes/PadThai.html)
@@ -393,3 +395,4 @@ Add your recipe to the bulleted list:
 - [Acai Smoothie Bowl](./recipes/AcaiSmoothieBowl.md)
 - [Kary's Gumbo](./recipes/gumbo.md)
 - [Stir-Fried Eggs](./recipes/StirFrieEgg.md)
+- [Roasted Broccoli](./recipes/roasted_broccoli.md)
