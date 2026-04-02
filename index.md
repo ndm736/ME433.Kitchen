@@ -15,6 +15,7 @@ Here is my example, [Banana Muffins](./recipes/bananamuffins.html)
 ## Our recipes
 
 Add your recipe to the bulleted list:
+- [Gluten Free Sugar Cookies](./recipes/Glutenfreesugarcookies.md)
 - [Broccoli Beef](./recipes/broccoli_beef.md)
 - [Berry Smoothie](./recipes/berry_smoothie.md)
 - [Jonathan Bell's Microwaved Bread](./recipes/MicrowavedBread.md)
