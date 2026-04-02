@@ -390,3 +390,4 @@ Add your recipe to the bulleted list:
 - [Joshua's Pork Tonkatsu](./recipes/Tonkatsu.md)
 - [Acai Smoothie Bowl](./recipes/AcaiSmoothieBowl.md)
 - [Kary's Gumbo](./recipes/gumbo.md)
+- [Stir-Fried Eggs](./recipes/StirFrieEgg.md)
