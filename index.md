@@ -372,3 +372,4 @@ Add your recipe to the bulleted list:
 - [Creamy Garlic Mushroom Pasta](./recipes/mushroompasta.md)
 - [Apricot Chicken Tagine](./recipes/ApricotChickenTagine.md)
 - [Brazilian Feijoada](./recipes/feijoada.md)
+- [Texas Toast](./recepies/texas_toast.md)
