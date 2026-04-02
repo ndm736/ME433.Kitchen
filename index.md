@@ -384,3 +384,4 @@ Add your recipe to the bulleted list:
 - [Good Company](./recipes/pegues_company.md)
 - [Baked Boursin Pasta](./recipes/BakedBoursinPasta.md)
 - [Guava Bread](./recipes/guavaBread.md)
+- [Lemonade](./recipes/lemonade.md)
