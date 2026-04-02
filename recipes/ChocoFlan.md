@@ -16,8 +16,8 @@ How to make a simple Chocoflan
 - 1 teaspoon vanilla
 - 7-8 eggs room temperature
 - 1 boxed chocolate cake mix
-- $\frac{1}{2}$ cup of whole milk
-- $\frac{3}{4}$ of melted butter
+- 1/2 cup of whole milk
+- 3/4 of melted butter
 - 1 cup of granulated sugar
 - 2 cups of water
 
@@ -41,8 +41,8 @@ How to make a simple Chocoflan
 4. After the caramel is poured, pour your cake batter into the baking dish and even it out. 
 5. Next, pour the flan mixture through a small mesh strainer directly into the baking dish over the cake batter. 
 6. Wrap the top of the baking dish with aluminum and make sure the top is entirely covered
-7. Use another baking pan that can fit the flan baking dish inside it and make sure it is deep enough to cover $\frac{1}{4}$ of the height of your flan
-8. Place the flan baking dish onto the baking pan, and then pour boiling water inside the pan to cover $\frac{1}{4}$ of the height of your flan dish. This is a water bath, which is crucial for making a flan.
+7. Use another baking pan that can fit the flan baking dish inside it and make sure it is deep enough to cover 1/4 of the height of your flan
+8. Place the flan baking dish onto the baking pan, and then pour boiling water inside the pan to cover 1/4 of the height of your flan dish. This is a water bath, which is crucial for making a flan.
 9. Place the pan into the over and bake for 55-65 minutes. 
 
 ## Serve
