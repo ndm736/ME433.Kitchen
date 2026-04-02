@@ -15,7 +15,7 @@ Here is my example, [Banana Muffins](./recipes/bananamuffins.html)
 ## Our recipes
 
 Add your recipe to the bulleted list:
-- [Duojiao Fish Head](./recipes/duojiao_fish_head.md)
+- [Duojiao Fish Head](./recipes/Duojiao_fish_head.md)
 - [Breakfast Panini](./recipes/breakfast_panini.md)
 - [Sausage and Kale Pasta](./recipes/sausage_and_kale_pasta.md)
 - [Gluten Free Sugar Cookies](./recipes/Glutenfreesugarcookies.md)
