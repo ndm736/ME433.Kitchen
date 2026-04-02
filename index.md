@@ -4,6 +4,8 @@ This is a repository for ME433 Advanced Mechatronics at Northwestern University.
 
 ## Instructions
 
+This is a note from nick
+
 The information contained here are some of our favorite recipes. Clone the repository, add your recipe as a file with the .md extension, and edit this file, index.md, by adding a link to your recipe. Commit and push your changes, and check [https://ndm736.github.io/ME433.Kitchen/](https://ndm736.github.io/ME433.Kitchen/) to see how it looks on the website (it may take a few minutes to update).
 
 Check the README.md file and [Dinky theme](https://pages-themes.github.io/dinky/) for hints on formatting.
@@ -380,3 +382,7 @@ Add your recipe to the bulleted list:
 - [Chocolate Chip Jumbles](./recipes/jumbles.md)
 - [Quick Pickle Veggies](./recipes/QuickPickleVeggies.html)
 - [Tahini Banana Bread](./recipes/TahiniBananaBread.md)
+- [Good Company](./recipes/pegues_company.md)
+- [Baked Boursin Pasta](./recipes/BakedBoursinPasta.md)
+- [Guava Bread](./recipes/guavaBread.md)
+- [Lemonade](./recipes/lemonade.md)
