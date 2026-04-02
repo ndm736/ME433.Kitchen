@@ -380,3 +380,4 @@ Add your recipe to the bulleted list:
 - [Quick Pickle Veggies](./recipes/QuickPickleVeggies.html)
 - [Tahini Banana Bread](./recipes/TahiniBananaBread.md)
 - [Baked Boursin Pasta](./recipes/BakedBoursinPasta.md)
+- [Guava Bread](./recipes/guavaBread.md)
