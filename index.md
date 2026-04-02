@@ -389,3 +389,4 @@ Add your recipe to the bulleted list:
 - [Joshua's Pork Tonkatsu](./recipes/Tonkatsu.md)
 - [Acai Smoothie Bowl](./recipes/AcaiSmoothieBowl.md)
 - [Kary's Gumbo](./recipes/gumbo.md)
+- [Sweet and Sour Fish](./recipes/SweetAndSourFish.md)
