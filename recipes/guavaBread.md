@@ -11,17 +11,17 @@ How to make guava sweet bread
 ### Ingredients
 
 
--2 ¼ teaspoons of yeast or 1 envelope
--7 oz. plus 4 tablespoons of warm water
--4 cups of all purpose flour
--1 teaspoon of salt
--½ cup of sugar plus more for garnish
--½ cup of unsalted butter melted
--1 tablespoon of vanilla extract
--2 large eggs at room temperature
--1 beaten egg for the glaze
--2 tablespoons of melted butter for the glaze
--2 cups diced or sliced guava past
+- 2 ¼ teaspoons of yeast or 1 envelope
+- 7 oz. plus 4 tablespoons of warm water
+- 4 cups of all purpose flour
+- 1 teaspoon of salt
+- ½ cup of sugar plus more for garnish
+- ½ cup of unsalted butter melted
+- 1 tablespoon of vanilla extract
+- 2 large eggs at room temperature
+- 1 beaten egg for the glaze
+- 2 tablespoons of melted butter for the glaze
+- 2 cups diced or sliced guava past
 
 
 ### Instructions
