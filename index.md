@@ -372,7 +372,7 @@ Add your recipe to the bulleted list:
 - [Creamy Garlic Mushroom Pasta](./recipes/mushroompasta.md)
 - [Apricot Chicken Tagine](./recipes/ApricotChickenTagine.md)
 - [Brazilian Feijoada](./recipes/feijoada.md)
-- [Texas Toast](./recepies/texas_toast.md)
+- [Texas Toast](./recipes/texas_toast.md)
 - [Soy Honey Glazed Salmon](./recipes/soy_honey_glazed_salmon.md)
 - [Ghanaian Jollof](./recipes/Jollof_Rice.md)
 - [Raspberry Chocolate Chip Cookies](./recipes/RaspberryChocolateChipCookies.md)
