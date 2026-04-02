@@ -2,8 +2,14 @@
 layout: default
 ---
 
-## Duojiao Fish Head (Steamed Fish Head with Chopped Peppers)
+<!---
+This is a comment. Note the triple dash to start, but double to end
+-->
 
+## Duojiao Fish Head (Steamed Fish Head with Chopped Peppers)
+<!---
+Name: Weiqian Peng
+-->
 Duojiao Fish Head is a famous dish from Hunan cuisine in China. It is known for its spicy flavor, tender fish, and rich taste. This is one of my favorite traditional dishes.
 
 ### Ingredients
@@ -30,4 +36,7 @@ Duojiao Fish Head is a famous dish from Hunan cuisine in China. It is known for 
 
 This dish is best served with rice. The soft fish and spicy peppers go very well together.
 
+<!--
+Keep this link to return to the index
+-->
 [back to index](../)
