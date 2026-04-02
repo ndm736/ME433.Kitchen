@@ -18,12 +18,12 @@ Acai bowls from ShakeSmart are great. However, they are pricey without meal exch
 - Choice of Frozen Fruits (Optional)
 - Choice of Milk (1 cup)
 - Toppings
-- - Chocolate Chips (Optional)
-- - Granola (Optional)
-- - Fresh Fruits (Optional)
-- - Choice of Spread like Nutella, Peanut Butter, Honey, or all of them (Optional)
-- - Coconute Flakes (Optional)
-- - Chia seeds (Optional)
+    - Chocolate Chips (Optional)
+    - Granola (Optional)
+    - Fresh Fruits (Optional)
+    - Choice of Spread like Nutella, Peanut Butter, Honey, or all of them (Optional)
+    - Coconute Flakes (Optional)
+    - Chia seeds (Optional)
 
 ### Instructions
 1. Add frozen acai, choice of frozen fruits (like bananas or strawberries), and choice of milk into a blender.
