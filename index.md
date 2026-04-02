@@ -41,6 +41,7 @@ Add your recipe to the bulleted list:
 - [Beef Stew](./recipes/beefstew.html)
 - [Scallion Oil Chicken](./recipes/ScallionOilChicken.md)
 - [Perfect Instant Ramen](./recipes/perfectramen.html)
+- [Chicken_65](./recipes/chicken_65.html)
 - [Grilled Cheese](./recipes/grilledcheese.html)
 - [Overnight Oats](./recipes/overnightoats.html)
 - [Pad Thai](./recipes/PadThai.html)
