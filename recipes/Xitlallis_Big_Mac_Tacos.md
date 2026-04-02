@@ -3,10 +3,10 @@ layout: default
 ---
 
 # Xitlalli's Big Mac Tacos
-A delicious, high-protein receipe that will satisfy your cravings. 
+A delicious fusion of a classic McDonald's burger and Hispanic cuisine that will satisfy your cravings. 
 
 ### Ingredients 
-For the Big Mac Sauce
+For the Big Mac Sauce:
 * 1 cup mayonnaise
 * 4 tablespoons pickle relish, drained
 * 3 tablespoons ketchup
@@ -18,7 +18,7 @@ For the Big Mac Sauce
 * 1 teaspoon garlic powder
 * 1/4 teaspoon white pepper
 
-For the Tacos and assembly.
+For the Tacos:
 * 12 mini flour tortillas
 * 1 pound 80/20 ground beef
 * salt, to taste
