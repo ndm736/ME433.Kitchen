@@ -399,3 +399,4 @@ Add your recipe to the bulleted list:
 - [Roasted Broccoli](./recipes/roasted_broccoli.md)
 - [Brownies!](./recipes/brownie.html)
 - [Pumpkin Bread](./recipes/Pumpkin_Bread.md)
+- [Brown Butter Chocolate Chip Cookies](./recipes/Brown_Butter_Chocolate_Chip_Cookies.md)
