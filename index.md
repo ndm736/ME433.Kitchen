@@ -418,3 +418,5 @@ Add your recipe to the bulleted list:
 - [Stargazy Pie](./recipes/Stargazy-Pie.md)
 - [Chicken Hummus Bowls](./recipes/ChickenHummusBowls.md)
 - [Braised Pork Belly](./recipes/Braised_pork_belly.md)
+- [Maggi](./recipes/maggi.md)
+
