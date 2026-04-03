@@ -408,4 +408,4 @@ Add your recipe to the bulleted list:
 - [Dalgona Coffee](./recipes/DalgonaCoffee.md)
 - [Chicken Parmesan](./recipes/ChickenParmesan.html)
 - [Smoothie Bowl](./recipes/smoothie_bowl.md) 
-
+- [Lamb Meatballs](./recipes/LambMeatballs.md)
