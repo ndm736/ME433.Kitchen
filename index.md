@@ -401,3 +401,5 @@ Add your recipe to the bulleted list:
 - [Pumpkin Bread](./recipes/Pumpkin_Bread.md)
 - [Brown Butter Chocolate Chip Cookies](./recipes/Brown_Butter_Chocolate_Chip_Cookies.md)
 - [Simple Chocoflan](./recipes/ChocoFlan.html)
+- [Polyjuice Potion](./recipes/polyjuice.md)
+
