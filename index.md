@@ -4,8 +4,6 @@ This is a repository for ME433 Advanced Mechatronics at Northwestern University.
 
 ## Instructions
 
-This is a note from nick again
-
 The information contained here are some of our favorite recipes. Clone the repository, add your recipe as a file with the .md extension, and edit this file, index.md, by adding a link to your recipe. Commit and push your changes, and check [https://ndm736.github.io/ME433.Kitchen/](https://ndm736.github.io/ME433.Kitchen/) to see how it looks on the website (it may take a few minutes to update).
 
 Check the README.md file and [Dinky theme](https://pages-themes.github.io/dinky/) for hints on formatting.
@@ -17,6 +15,10 @@ Here is my example, [Banana Muffins](./recipes/bananamuffins.html)
 ## Our recipes
 
 Add your recipe to the bulleted list:
+- [Duojiao Fish Head](./recipes/duojiao_fish_head.html)
+- [Breakfast Panini](./recipes/breakfast_panini.md)
+- [Sausage and Kale Pasta](./recipes/sausage_and_kale_pasta.md)
+- [Gluten Free Sugar Cookies](./recipes/Glutenfreesugarcookies.md)
 - [Broccoli Beef](./recipes/broccoli_beef.md)
 - [Berry Smoothie](./recipes/berry_smoothie.md)
 - [Jonathan Bell's Microwaved Bread](./recipes/MicrowavedBread.md)
@@ -42,6 +44,8 @@ Add your recipe to the bulleted list:
 - [Beef Stew](./recipes/beefstew.html)
 - [Scallion Oil Chicken](./recipes/ScallionOilChicken.md)
 - [Perfect Instant Ramen](./recipes/perfectramen.html)
+- [Chicken_65](./recipes/chicken_65.html)
+- [Cumin Lamb](./recipes/CuminLamb.md)
 - [Grilled Cheese](./recipes/grilledcheese.html)
 - [Overnight Oats](./recipes/overnightoats.html)
 - [Pad Thai](./recipes/PadThai.html)
@@ -102,6 +106,7 @@ Add your recipe to the bulleted list:
 - [Coke Chicken Wing](./recipes/CokeChickenWing.html)
 - [Penne in Cream Sauce with Italian Sausage](./recipes/CreamyItalianSausagePenne.html)
 - [Pumpkin Cupcakes](./recipes/pumpkincupcakes.html)
+- [Xitlalli's Big Mac Tacos](./recipes/Xitlallis_Big_Mac_Tacos.md)
 - [Snickerdoodle Cheesecake Cookies](./recipes/snickerdoodlecheesecakecookies.md)
 - [Chicken Quesadilla](./recipes/chickenquesadilla.html)
 - [Mushroom Pork](./recipes/mushroompork.html)
@@ -389,4 +394,16 @@ Add your recipe to the bulleted list:
 - [Maya's Steamed Egg](./recipes/maya-steamed_egg.md)
 - [Naleśniki](./recipes/nalesniki.md) 
 - [Joshua's Pork Tonkatsu](./recipes/Tonkatsu.md)
+- [Acai Smoothie Bowl](./recipes/AcaiSmoothieBowl.md)
+- [Kary's Gumbo](./recipes/gumbo.md)
+- [Stir-Fried Eggs](./recipes/StirFrieEgg.md)
+- [Roasted Broccoli](./recipes/roasted_broccoli.md)
+- [Brownies!](./recipes/brownie.html)
+- [Pumpkin Bread](./recipes/Pumpkin_Bread.md)
+- [Brown Butter Chocolate Chip Cookies](./recipes/Brown_Butter_Chocolate_Chip_Cookies.md)
+- [Simple Chocoflan](./recipes/ChocoFlan.html)
+- [Polyjuice Potion](./recipes/polyjuice.md)
+- [Beef Wellington](./recipes/BeefWellington.md)
+- [Protein Pasta](./recipes/Protein_Pasta.md)
+- [Dalgona Coffee](./recipes/DalgonaCoffee.md)
 - [Smoothie Bowl](./recipes/smoothie_bowl.md)
