@@ -406,4 +406,4 @@ Add your recipe to the bulleted list:
 - [Beef Wellington](./recipes/BeefWellington.md)
 - [Protein Pasta](./recipes/Protein_Pasta.md)
 - [Dalgona Coffee](./recipes/DalgonaCoffee.md)
-- [Smoothie Bowl](./recipes/smoothie_bowl.md)
+- [Smoothie Bowl](./recipes/smoothie_bowl.md) 
