@@ -407,3 +407,4 @@ Add your recipe to the bulleted list:
 - [Protein Pasta](./recipes/Protein_Pasta.md)
 - [Dalgona Coffee](./recipes/DalgonaCoffee.md)
 - [Smoothie Bowl](./recipes/smoothie_bowl.md) 
+- [Chicken Parmesan](./recipes/ChickenParmesan.html)
