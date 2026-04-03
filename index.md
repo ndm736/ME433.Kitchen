@@ -15,6 +15,7 @@ Here is my example, [Banana Muffins](./recipes/bananamuffins.html)
 ## Our recipes
 
 Add your recipe to the bulleted list:
+- [Indonesian Beef Rendang](./recipes/Indonesian_BeefRendang.md)
 - [Duojiao Fish Head](./recipes/duojiao_fish_head.html)
 - [Breakfast Panini](./recipes/breakfast_panini.md)
 - [Sausage and Kale Pasta](./recipes/sausage_and_kale_pasta.md)
@@ -409,3 +410,4 @@ Add your recipe to the bulleted list:
 - [Chicken Parmesan](./recipes/ChickenParmesan.html)
 - [Smoothie Bowl](./recipes/smoothie_bowl.md) 
 - [Corned Beef](./recipes/CornedBeef.md) 
+- [Lamb Meatballs](./recipes/LambMeatballs.md)
