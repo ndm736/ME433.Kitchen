@@ -389,3 +389,4 @@ Add your recipe to the bulleted list:
 - [Maya's Steamed Egg](./recipes/maya-steamed_egg.md)
 - [Naleśniki](./recipes/nalesniki.md) 
 - [Joshua's Pork Tonkatsu](./recipes/Tonkatsu.md)
+- [Smoothie Bowl](./recipes/smoothie_bowl.md)
