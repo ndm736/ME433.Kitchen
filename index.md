@@ -409,5 +409,6 @@ Add your recipe to the bulleted list:
 - [Dalgona Coffee](./recipes/DalgonaCoffee.md)
 - [Chicken Parmesan](./recipes/ChickenParmesan.html)
 - [Smoothie Bowl](./recipes/smoothie_bowl.md) 
+- [Corned Beef](./recipes/CornedBeef.md) 
 - [Lamb Meatballs](./recipes/LambMeatballs.md)
 - [KongPao Chicken](./recipes/KongpaoChicken.md)
