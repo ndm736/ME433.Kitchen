@@ -21,7 +21,7 @@ Chicken parmesan is an italian chicken dish with a delicous, cheesy sauce. It's 
 - ¾ cup grated Parmesan cheese (3 oz.)
 - 2 Tbsp. flour
 - ¾ cup olive oil
-- 1⅓ cups low-sodium marinara sauce
+- 1⅓ cups marinara sauce
 - 2½ oz. fresh mozzarella, cut into ¼-inch cubes (½ cup)
 - ½ cup shredded provolone cheese (2 oz.)
 - ¼ cup chopped fresh basil
