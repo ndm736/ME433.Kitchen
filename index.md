@@ -400,3 +400,4 @@ Add your recipe to the bulleted list:
 - [Brownies!](./recipes/brownie.html)
 - [Pumpkin Bread](./recipes/Pumpkin_Bread.md)
 - [Brown Butter Chocolate Chip Cookies](./recipes/Brown_Butter_Chocolate_Chip_Cookies.md)
+- [Kraft Mac and Cheese](./recipes/kraftmac.md)
