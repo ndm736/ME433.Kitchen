@@ -30,6 +30,7 @@ Add your recipe to the bulleted list:
 - [Creamy Chicken Piccata](./recipes/CreamyChickenPiccata.html)
 - [South African Biltong](./recipes/MarnoSouthAfricanBiltong.html)
 - [Sri Lankan tea](./recipes/SriLankanTea.html)
+- [Sri Lankan Hoppers](./recipes/SriLankanHoppers.html)
 - [Kofte](./recipes/Kofte.html)
 - [Paella](./recipes/paella.html)
 - [Creme Brulee](./recipes/Creme_Brulee.html)
