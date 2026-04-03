@@ -1,4 +1,4 @@
-## Indonesia Beef Rendang
+## Indonesian Beef Rendang
 
 
 ### Ingredients:
