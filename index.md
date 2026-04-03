@@ -403,8 +403,6 @@ Add your recipe to the bulleted list:
 - [Brown Butter Chocolate Chip Cookies](./recipes/Brown_Butter_Chocolate_Chip_Cookies.md)
 - [Simple Chocoflan](./recipes/ChocoFlan.html)
 - [Polyjuice Potion](./recipes/polyjuice.md)
-<<<<<<< HEAD
 - [Beef Wellington](./recipes/BeefWellington.md)
-=======
 - [Protein Pasta](./recipes/Protein_Pasta.md)
 >>>>>>> df525354c39fcf24b7a37af2b7beeeb50bf9ca89
