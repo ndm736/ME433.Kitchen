@@ -158,6 +158,7 @@ Add your recipe to the bulleted list:
 - [Pozole](./recipes/pozole.html)
 - [Michael's Mac and Cheese](./recipes/MacandCheeseMichael.html)
 - [Lemon Cake](./recipes/LemonCake.html)
+- [Potato Salad](./recipes/PotatoSalad.html)
 - [Lemon Chicken](./recipes/LemonChicken.html)
 - [Cinnamon Baked French Toast](./recipes/CinnamonBakedFrenchToast.html)
 - [Barley Stuffed Peppers](./recipes/BarleyStuffedPeppers.html)
