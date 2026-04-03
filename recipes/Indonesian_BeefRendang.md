@@ -2,29 +2,29 @@
 
 
 ### Ingredients:
-# ------> Spice Paste
--> 12 dried chilies, rehydrated in boiling water, or 12 large fresh (Note 1a)
--> 1 small onion, finely chopped (Note 1b)
--> 5 cloves garlic, minced
--> 3 lemongrass stalks, white part only, sliced (Note 2)
--> 1 1/2 tbsp fresh galangal, finely chopped (Note 3)
--> 1 1/2 tbsp fresh ginger, minced
--> 2 tbsp oil (vegetable, canola or peanut oil)
+#### Spice Paste
+- 12 dried chilies, rehydrated in boiling water, or 12 large fresh (Note 1a)
+- 1 small onion, finely chopped (Note 1b)
+- 5 cloves garlic, minced
+- 3 lemongrass stalks, white part only, sliced (Note 2)
+- 1 1/2 tbsp fresh galangal, finely chopped (Note 3)
+- 1 1/2 tbsp fresh ginger, minced
+- 2 tbsp oil (vegetable, canola or peanut oil)
 
-# ------> Curry
--> 2 lb/ 1 kg chuck steak, or other slow cooking beef, cut into 4cm / 1.6″ cubes (Note 4)
--> 1 tbsp oil (vegetable, peanut, canola)
--> 1 cinnamon stick
--> 1/4 tsp clove powder
--> 3 star anise
--> 1/2 tsp cardamon powder
--> 1 lemongrass stick, bottom half of the stick only and smashed (Note 5)
--> 400ml / 14 oz coconut milk (1 standard can)
--> 2 tsp tamarind puree / paste, or tamarind pulp soaked in 1 tbsp of hot water, seeds removed (Note 6)
--> 4 large kaffir lime leaves (or 6 small) , very finely sliced (Note 7)
--> 1/3 cup desiccated coconut (finely shredded coconut)
--> 1 tbsp brown sugar or grated palm sugar
--> 1 1/2 tsp salt
+#### Curry
+- 2 lb/ 1 kg chuck steak, or other slow cooking beef, cut into 4cm / 1.6″ cubes (Note 4)
+- 1 tbsp oil (vegetable, peanut, canola)
+- 1 cinnamon stick
+- 1/4 tsp clove powder
+- 3 star anise
+- 1/2 tsp cardamon powder
+- 1 lemongrass stick, bottom half of the stick only and smashed (Note 5)
+- 400ml / 14 oz coconut milk (1 standard can)
+- 2 tsp tamarind puree / paste, or tamarind pulp soaked in 1 tbsp of hot water, seeds removed (Note 6)
+- 4 large kaffir lime leaves (or 6 small) , very finely sliced (Note 7)
+- 1/3 cup desiccated coconut (finely shredded coconut)
+- 1 tbsp brown sugar or grated palm sugar
+- 1 1/2 tsp salt
 
 ### Instructions:
 1. Place Spice Paste ingredients in a small food processor and whizz until fine. NOTE: If using dried chilli and you know your food processor is not that powerful, chop the chilli first.
