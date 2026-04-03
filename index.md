@@ -45,6 +45,7 @@ Add your recipe to the bulleted list:
 - [Scallion Oil Chicken](./recipes/ScallionOilChicken.md)
 - [Perfect Instant Ramen](./recipes/perfectramen.html)
 - [Chicken_65](./recipes/chicken_65.html)
+- [Cumin Lamb](./recipes/CuminLamb.md)
 - [Grilled Cheese](./recipes/grilledcheese.html)
 - [Overnight Oats](./recipes/overnightoats.html)
 - [Pad Thai](./recipes/PadThai.html)
@@ -404,3 +405,4 @@ Add your recipe to the bulleted list:
 - [Polyjuice Potion](./recipes/polyjuice.md)
 - [Protein Pasta](./recipes/Protein_Pasta.md)
 
+-[Beef Wellington](./recipies/BeefWellington.md)
