@@ -28,7 +28,11 @@ The ultimate Sri Lankan food that everyone loves!
 3. Add sugar and coconut milk to make a somewhat thick batter.
 4. Cover again and let it sit for 30 minutes.
 5. Add salt to the batter and mix until you get a homogeneous mixture.
-6. Heat the hopper pan on medium heat,
+6. Heat the hopper pan on medium heat and add a little bit of coconut oil.
+7. Add a ladle full of batter to the center of the pan.
+8. Swirl the pan around to coat the inside with the batter.
+9. Cover the pan and let it cook for around 1-2 minutes.
+10. Once the hopper is properly cooked, carefully scrape it and remove it from the pan.
 
 
 Enjoy!
