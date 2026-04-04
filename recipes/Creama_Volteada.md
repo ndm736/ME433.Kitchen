@@ -5,14 +5,16 @@ layout: default
 <!---
 This is a comment. Note the triple dash to start, but double to end
 -->
-
-## Crema Volteada or Peruvian Flan
+## Cream Volteada Recipe
 <!---
 Put your name or github username somewhere
 zirunbenwu
 -->
+
 “Crema Volteada” is the Peruvian version of the flan. It’s directly translated to upside-down cream and it’s quite accurate. The recipe has its origin in Spain and as years went by it was adapted to this version. The crema volteada recipe has evaporated and condensed milk making it extra smooth.
 
+
+![Creama Volteada](creama.jpg)
 
 
 ### Ingredients (1 serving)
