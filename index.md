@@ -423,3 +423,4 @@ Add your recipe to the bulleted list:
 - [Cherry Tomato Pasta](./recipes/CherryTomatoPasta.md)
 - [Amber's Brown Butter Chocolate Chip Cookies](./recipes/AmbersBrownButterChocolateChipCookies.md)
 - [Sour Soup Beef Slices](./recipes/sour_soup_beef.md)
+- [Beignets](./recipes/Beignets.md)
