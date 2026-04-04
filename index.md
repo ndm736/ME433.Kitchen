@@ -422,4 +422,4 @@ Add your recipe to the bulleted list:
 - [Tomato Cucumber Onion Salad](./recipes/TomatoCucumberOnionSalad.md)
 - [Cherry Tomato Pasta](./recipes/CherryTomatoPasta.md)
 - [Amber's Brown Butter Chocolate Chip Cookies](./recipes/AmbersBrownButterChocolateChipCookies.md)
-- [Tomato and Egg Stir Fry](recipes/tomato_egg.md)
+- [Tomato and Egg Stir Fry](./recipes/tomato_egg.md)
