@@ -424,3 +424,4 @@ Add your recipe to the bulleted list:
 - [Amber's Brown Butter Chocolate Chip Cookies](./recipes/AmbersBrownButterChocolateChipCookies.md)
 - [Sour Soup Beef Slices](./recipes/sour_soup_beef.md)
 - [Beignets](./recipes/Beignets.md)
+- [Chinese Golden Crispy Corn Pancake](recipes/GoldenCrispyCornPancake.md)
