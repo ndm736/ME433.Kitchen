@@ -16,7 +16,7 @@ layout: default
 ### Recipe
 1.  Throw all ingredients into machine provided container
 2.  Use a frother to combine well
-3.  Freese the mixer for 24hr or overnight
+3.  Freeze the mixer for 24hr or overnight
 4.  Run the container under hot water for 15 seconds
 5.  Blend on the light ice cream setting
 6.  Scrape the edges in the container to mix and rerun on the rerun setting
