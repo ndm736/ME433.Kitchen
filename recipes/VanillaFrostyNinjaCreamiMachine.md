@@ -2,8 +2,6 @@
 layout: default
 ---
 
-[Back to ME433 Kitchen](https://ndm736.github.io/ME433.Kitchen/).
-
 # Vanilla Frosty (using Ninja Creami Machine)
 
 
