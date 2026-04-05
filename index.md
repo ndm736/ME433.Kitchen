@@ -34,7 +34,7 @@ Add your recipe to the bulleted list:
 - [Sri Lankan Hoppers](./recipes/SriLankanHoppers.html)
 - [Kofte](./recipes/Kofte.html)
 - [Paella](./recipes/paella.html)
-- [Yaprak Doner](./recipes/Yaprak%20Doner.md)
+- [Yaprak Doner](./recipes/Yaprak_Doner.md)
 - [Creme Brulee](./recipes/Creme_Brulee.html)
 - [Biber Dolması (Turkish Stuffed Peppers)](./recipes/BiberDolması.html)
 - [The Undergrad Skillet](./recipes/undergradSkillet.html)
