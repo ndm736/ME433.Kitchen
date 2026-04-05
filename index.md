@@ -429,3 +429,4 @@ Add your recipe to the bulleted list:
 - [Chinese Golden Crispy Corn Pancake](recipes/GoldenCrispyCornPancake.md)
 - [Sopaipillas](./recipes/Sopaipillas.md)
 - [Fujianese Ban Mian](./recipes/BanMian.md)
+- [Vanilla Frosty With Ninja Creami Machine](./recipes/VanillaFrostyNinjaCreamiMachine.md)
