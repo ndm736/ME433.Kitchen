@@ -427,3 +427,4 @@ Add your recipe to the bulleted list:
 - [Beignets](./recipes/Beignets.md)
 - [Chinese Golden Crispy Corn Pancake](recipes/GoldenCrispyCornPancake.md)
 - [Sopaipillas](./recipes/Sopaipillas.md)
+- [Fujianese Ban Mian](./recipes/BanMian.md)
