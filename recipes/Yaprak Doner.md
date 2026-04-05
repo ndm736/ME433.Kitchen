@@ -6,7 +6,7 @@ layout: default
 This is a comment. Note the triple dash to start, but double to end
 -->
 
-## Yarrak Doner
+## Kerem's Yarrak Doner Recipe
 <!---
 Put your name or github username somewhere
 Kerelnes - Kerem Aydin
