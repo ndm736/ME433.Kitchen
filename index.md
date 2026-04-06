@@ -432,3 +432,4 @@ Add your recipe to the bulleted list:
 - [Fujianese Ban Mian](./recipes/BanMian.md)
 - [Vanilla Frosty With Ninja Creami Machine](./recipes/VanillaFrostyNinjaCreamiMachine.md)
 - [Peanut Tofu Curry](./recipes/Peanut_Tofu_Curry.md)
+- [Chia Pudding](./recipes/ChiaPudding.md)
