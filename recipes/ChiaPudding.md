@@ -1,7 +1,3 @@
-```markdown
-Syntax highlighted code block
-
-
 # Chia Pudding
 
 
@@ -26,5 +22,3 @@ Syntax highlighted code block
 -> Cover and refrigerate for at least 2 hours (or overnight)  
 -> Once thickened, stir and adjust sweetness if needed  
 -> Top with fruit, nuts, or granola before serving
-
-```
