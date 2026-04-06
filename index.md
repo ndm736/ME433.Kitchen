@@ -434,3 +434,4 @@ Add your recipe to the bulleted list:
 - [Peanut Tofu Curry](./recipes/Peanut_Tofu_Curry.md)
 - [Chia Pudding](./recipes/ChiaPudding.md)
 - [Espresso Martini](./recipes/EspressoMartini.md)
+- [Rebecca's Challah](./recipes/challah-rebecca.md)
