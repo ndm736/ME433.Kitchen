@@ -431,3 +431,4 @@ Add your recipe to the bulleted list:
 - [Sopaipillas](./recipes/Sopaipillas.md)
 - [Fujianese Ban Mian](./recipes/BanMian.md)
 - [Vanilla Frosty With Ninja Creami Machine](./recipes/VanillaFrostyNinjaCreamiMachine.md)
+- [Peanut Tofu Curry](./recipes/Peanut_Tofu_Curry.md)
