@@ -15,6 +15,7 @@ Here is my example, [Banana Muffins](./recipes/bananamuffins.html)
 ## Our recipes
 
 Add your recipe to the bulleted list:
+- [Shreeni's Vada Pav](./recipes/ShreeniVadaPav.md)
 - [Baklava](./recipes/Baklava.html)
 - [Creama Volteada](./recipes/Creama_Volteada.md)
 - [Indonesian Beef Rendang](./recipes/Indonesian_BeefRendang.md)
