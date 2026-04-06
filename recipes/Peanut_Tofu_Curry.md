@@ -8,7 +8,7 @@ Name: Anisha Phade
 username: lkj-2000
 -->
 
-This recipe makes 3-4 servings.
+This is a vegan thai curry recipe, and it makes 3-4 servings.
 
 ### Ingredients
 - 1 can (13.6 oz) unsweetened coconut milk
