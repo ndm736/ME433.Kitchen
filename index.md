@@ -441,3 +441,4 @@ Add your recipe to the bulleted list:
 - [Beef Stroganoff](./recipes/BeefStroganoff.md)
 - [Macbeth 'n' Cheese](./recipes/MacbethAndCheese.html)
 - [Chilaquiles](./recipes/Chilaquiles.md)
+- [Mille-Feuille Nabe](./recipes/MilleFeuilleNabe.md)
