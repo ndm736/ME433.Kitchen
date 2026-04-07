@@ -437,3 +437,4 @@ Add your recipe to the bulleted list:
 - [Chia Pudding](./recipes/ChiaPudding.md)
 - [Espresso Martini](./recipes/EspressoMartini.md)
 - [Rebecca's Challah](./recipes/challah-rebecca.md)
+- [Macbeth 'n' Cheese](./recipes/MacbethAndCheese.html)
