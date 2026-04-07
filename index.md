@@ -15,6 +15,7 @@ Here is my example, [Banana Muffins](./recipes/bananamuffins.html)
 ## Our recipes
 
 Add your recipe to the bulleted list:
+- [Shreeni's Vada Pav](./recipes/ShreeniVadaPav.md)
 - [Baklava](./recipes/Baklava.html)
 - [Creama Volteada](./recipes/Creama_Volteada.md)
 - [Indonesian Beef Rendang](./recipes/Indonesian_BeefRendang.md)
@@ -52,6 +53,7 @@ Add your recipe to the bulleted list:
 - [Chicken_65](./recipes/chicken_65.html)
 - [Cumin Lamb](./recipes/CuminLamb.md)
 - [Grilled Cheese](./recipes/grilledcheese.html)
+- [Thai Curry](./recipes/ThaiCurry.md)
 - [Overnight Oats](./recipes/overnightoats.html)
 - [Pad Thai](./recipes/PadThai.html)
 - [Gyudon](./recipes/gyudon.html)
