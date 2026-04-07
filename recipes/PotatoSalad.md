@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Potato Salad
+## Karl's Potato Salad
 
 ### Ingredients
 - 4 potatoes
