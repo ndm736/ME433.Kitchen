@@ -439,3 +439,4 @@ Add your recipe to the bulleted list:
 - [Espresso Martini](./recipes/EspressoMartini.md)
 - [Rebecca's Challah](./recipes/challah-rebecca.md)
 - [Macbeth 'n' Cheese](./recipes/MacbethAndCheese.html)
+- [Chilaquiles](./recipes/Chilaquiles.md)
