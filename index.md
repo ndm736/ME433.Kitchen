@@ -53,6 +53,7 @@ Add your recipe to the bulleted list:
 - [Chicken_65](./recipes/chicken_65.html)
 - [Cumin Lamb](./recipes/CuminLamb.md)
 - [Grilled Cheese](./recipes/grilledcheese.html)
+- [Thai Curry](./recipes/ThaiCurry.md)
 - [Overnight Oats](./recipes/overnightoats.html)
 - [Pad Thai](./recipes/PadThai.html)
 - [Gyudon](./recipes/gyudon.html)
