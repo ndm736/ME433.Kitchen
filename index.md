@@ -445,3 +445,4 @@ Add your recipe to the bulleted list:
 - [Orange](./recipes/Orange.md)
 - [Gyoza](./recipes/Gyoza.md)
 - [Plex Stir Fry](./recipes/PlexStirFry.md)
+- [Bibimbap](./recipes/Bibimbap.md)
