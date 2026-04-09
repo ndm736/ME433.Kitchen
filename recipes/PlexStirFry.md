@@ -26,7 +26,7 @@ Plex Stir Fry is my favourite dining hall food but making it requires immense sk
 5. Wait eagerly for the stir fry to be prepared
 6. Pick up the stir fry and drizzle it with hot sauce
 
-Enjoy! (if you have a dining Plane)
+Enjoy! (if you have a dining plan)
 
 <!--
 Keep this link to return to the index
