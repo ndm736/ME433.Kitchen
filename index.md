@@ -444,3 +444,4 @@ Add your recipe to the bulleted list:
 - [Mille-Feuille Nabe](./recipes/MilleFeuilleNabe.md)
 - [Orange](./recipes/Orange.md)
 - [Gyoza](./recipes/Gyoza.md)
+- [Plex Stir Fry](./recipes/PlexStirFry.md)
