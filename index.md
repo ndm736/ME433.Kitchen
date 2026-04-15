@@ -447,3 +447,4 @@ Add your recipe to the bulleted list:
 - [Gyoza](./recipes/Gyoza.md)
 - [Plex Stir Fry](./recipes/PlexStirFry.md)
 - [Bibimbap](./recipes/Bibimbap.md)
+- [Lei's Tomato and Egg Stir Fry](./recipes/LeiTomatoEgg.html)
