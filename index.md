@@ -448,4 +448,4 @@ Add your recipe to the bulleted list:
 - [Plex Stir Fry](./recipes/PlexStirFry.md)
 - [Bibimbap](./recipes/Bibimbap.md)
 - [Lei's Tomato and Egg Stir Fry](./recipes/LeiTomatoEgg.html)
-- [Pistachio Macarons](./recipes/PistachioMacarons.html)
+- [Pistachio Macarons](./recipes/PistachioMacarons.md)
