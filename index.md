@@ -85,6 +85,7 @@ Add your recipe to the bulleted list:
 - [Chilli Crab](./recipes/chillicrab.html)
 - [Aglio e Olio](./recipes/AglioEOlio.html)
 - [Deep Fried Tofu](./recipes/deepfriedtofu.html)
+- [Lemon Crepe Cake](recipes/lemon-crepe-cake.md)
 - [Soft Pretzels](./recipes/softPretzels.html)
 - [Sticky Rice Wrap](./recipes/StickyRiceWrap.md)
 - [Creamy Sausage Pasta](./recipes/CreamySausagePasta.html)
