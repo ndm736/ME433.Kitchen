@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Lemon Crepe Cake (without Italian Meringue)
+# Nicole's Lemon Crepe Cake (without Italian Meringue)
 
 Author: Camille on https://bakerstreetsociety.com/lemon-crepe-cake/
 
@@ -62,4 +62,5 @@ Author: Camille on https://bakerstreetsociety.com/lemon-crepe-cake/
 7. Repeat until all layers are used.
 8. Spread reserved lemon curd on top layer.
 9. Top with whipped cream or Italian meringue.
-10. Torch meringue if desired.
+
+[back to index](../)
