@@ -247,6 +247,7 @@ Add your recipe to the bulleted list:
 - [Basque Cheesecake](./recipes/BasqueCheesecake.html)
 - [Air Fryer Salmon Bites](./recipes/AirFryerSalmonBites.html)
 - [Peanut Butter Pie](./recipes/Peanut_Butter_Pie.md)
+- [Adam's Tiramisu Cookies](./recipes/TiramisuCookies.md)
 - [Banana Bread](./recipes/Banana_Bread.md)
 - [Brown Butter Chocolate Chip Cookies](./recipes/brownbuttercookies.md)
 - [Fish and Chips](./recipes/FishAndChips.md)
