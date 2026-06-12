@@ -1,0 +1,1 @@
+For a perfect fried egg, heat 1–2 tablespoons of butter or olive oil in a non-stick skillet over medium-high heat until shimmering. Crack eggs into the pan, reduce heat to medium-low, and cook for 2–3 minutes until whites are set and edges are crispy, basting with hot oil if desired. 
