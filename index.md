@@ -451,3 +451,4 @@ Add your recipe to the bulleted list:
 - [Bibimbap](./recipes/Bibimbap.md)
 - [Lei's Tomato and Egg Stir Fry](./recipes/LeiTomatoEgg.html)
 - [Pistachio Macarons](./recipes/PistachioMacarons.md)
+- [Peter's Sweet and Sour Fish](./recipes/SweetAndSourFish.md)
